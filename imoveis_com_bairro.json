@@ -1,5 +1,2382 @@
 [
   {
+    "place_id": "8099744",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "550437071",
+    "lat": -31.729609084590553,
+    "lon": -52.319239895940505,
+    "display_name": "1206, Avenida Engenheiro Ildefonso Simões Lopes, Loteamento Jardim das Tradições, Três Vendas, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96060-290, Brazil",
+    "address": {
+      "house_number": "1206",
+      "road": "Avenida Engenheiro Ildefonso Simões Lopes",
+      "neighbourhood": "Loteamento Jardim das Tradições",
+      "suburb": "Três Vendas",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96060-290",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7304853",
+      "-31.7280584",
+      "-52.3187774",
+      "-52.315851"
+    ],
+    "coordinates": [
+      -52.319239895940505,
+      -31.729609084590553
+    ],
+    "estimatedPrice": 6000,
+    "id": "00638e4d-aa0f-43a9-a58b-400ae0eb58d5",
+    "listingType": "rent",
+    "slug": "1146-avenida-engenheiro-ildefonso-simoes-lopes-pelotas-FpSxqy01mtBS",
+    "type": "land",
+    "tipo": "rent",
+    "neighbourhood": "Loteamento Jardim das Tradições"
+  },
+  {
+    "place_id": "8196477",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "108513834",
+    "lat": -31.741801545925277,
+    "lon": -52.328069528417934,
+    "display_name": "Avenida Juscelino Kubitschek de Oliveira, Loteamento Bom Jesus, Areal, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96080-690, Brazil",
+    "address": {
+      "road": "Avenida Juscelino Kubitschek de Oliveira",
+      "neighbourhood": "Loteamento Bom Jesus",
+      "suburb": "Areal",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96080-690",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7462958",
+      "-31.7395549",
+      "-52.3289798",
+      "-52.3282388"
+    ],
+    "coordinates": [
+      -52.328069528417934,
+      -31.741801545925277
+    ],
+    "estimatedPrice": 1890,
+    "id": "06dacd68-4c6e-442b-8f8d-5407f6229e3e",
+    "listingType": "rent",
+    "slug": "4808-avenida-presidente-juscelino-kubitschek-de-oliveira-pelotas-xirANkjzardm",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Loteamento Bom Jesus"
+  },
+  {
+    "place_id": "6587755",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "887674162",
+    "lat": -31.742083658107447,
+    "lon": -52.342419837716974,
+    "display_name": "882, Avenida Fernando Osório, Colina do Sol, Três Vendas, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96055-035, Brazil",
+    "address": {
+      "house_number": "882",
+      "road": "Avenida Fernando Osório",
+      "neighbourhood": "Colina do Sol",
+      "suburb": "Três Vendas",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96055-035",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.742415460922",
+      "-31.742315460922",
+      "-52.34318585295",
+      "-52.34308585295"
+    ],
+    "coordinates": [
+      -52.342419837716974,
+      -31.742083658107447
+    ],
+    "estimatedPrice": 3000,
+    "id": "070a621d-8be0-47fa-84eb-6d9150d0442c",
+    "listingType": "rent",
+    "slug": "1371-avenida-dom-joaquim-ferreira-de-mello-pelotas-cqcT1t909Hqn",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Colina do Sol"
+  },
+  {
+    "place_id": "6591178",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "791137868",
+    "lat": -31.777472516145668,
+    "lon": -52.3422691460314,
+    "display_name": "217, Rua Gonçalves Chaves, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96015-560, Brazil",
+    "address": {
+      "house_number": "217",
+      "road": "Rua Gonçalves Chaves",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96015-560",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.777549872617",
+      "-31.777449872617",
+      "-52.342228796796",
+      "-52.342128796796"
+    ],
+    "coordinates": [
+      -52.3422691460314,
+      -31.777472516145668
+    ],
+    "estimatedPrice": 1400,
+    "id": "0afacc6f-322a-4b07-94a4-68c5e85b9408",
+    "listingType": "rent",
+    "slug": "213-rua-gon-alves-chaves-pelotas-WYyOkqFN1bUa",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Centro"
+  },
+  {
+    "place_id": "8207128",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "547515957",
+    "lat": -31.765758256574486,
+    "lon": -52.31500854723885,
+    "display_name": "Rua Suzana Cortez Balreira, Parque Una, São Gonçalo, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96075-160, Brazil",
+    "address": {
+      "road": "Rua Suzana Cortez Balreira",
+      "suburb": "Parque Una",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96075-160",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.767537",
+      "-31.7653199",
+      "-52.3158909",
+      "-52.3147885"
+    ],
+    "coordinates": [
+      -52.31500854723885,
+      -31.765758256574486
+    ],
+    "estimatedPrice": 2200,
+    "id": "11ea9c08-2433-4102-8dc3-e9bda5fa47f3",
+    "listingType": "rent",
+    "slug": "465-rua-um-ltm-parque-una-pelotas-pelotas-BHEMYoz3C9yO",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Parque Una"
+  },
+  {
+    "place_id": "8200441",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "361657312",
+    "lat": -31.744321025601337,
+    "lon": -52.339934935000414,
+    "display_name": "Rua Paulo Marquês, Fragata, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96020-260, Brazil",
+    "address": {
+      "road": "Rua Paulo Marquês",
+      "suburb": "Fragata",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96020-260",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7456818",
+      "-31.7440649",
+      "-52.3396065",
+      "-52.3375731"
+    ],
+    "coordinates": [
+      -52.339934935000414,
+      -31.744321025601337
+    ],
+    "estimatedPrice": 1700,
+    "id": "130b7107-2bec-48e9-bc16-dc144eb04b9a",
+    "listingType": "rent",
+    "slug": "401-rua-paulo-marques-pelotas-ecSWn65ME9Kd",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Fragata"
+  },
+  {
+    "place_id": "8216726",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "155081918",
+    "lat": -31.778571317054336,
+    "lon": -52.337578574303244,
+    "display_name": "Rua Bento Martins, Porto, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96010-500, Brazil",
+    "address": {
+      "road": "Rua Bento Martins",
+      "neighbourhood": "Porto",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96010-500",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7811281",
+      "-31.7684409",
+      "-52.3384263",
+      "-52.3331529"
+    ],
+    "coordinates": [
+      -52.337578574303244,
+      -31.778571317054336
+    ],
+    "estimatedPrice": 1200,
+    "id": "156dc9dd-8ab0-41c3-8ba5-5b44e7f67dd5",
+    "listingType": "rent",
+    "slug": "501-rua-bento-martins-pelotas-RSwNq2w27Rxu",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Porto"
+  },
+  {
+    "place_id": "8203627",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "204048172",
+    "lat": -31.726130230913775,
+    "lon": -52.32883448895391,
+    "display_name": "Avenida Guadalajara, Tablada, Três Vendas, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96060-460, Brazil",
+    "address": {
+      "road": "Avenida Guadalajara",
+      "neighbourhood": "Tablada",
+      "suburb": "Três Vendas",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96060-460",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7321477",
+      "-31.7241417",
+      "-52.330699",
+      "-52.3224204"
+    ],
+    "coordinates": [
+      -52.32883448895391,
+      -31.726130230913775
+    ],
+    "estimatedPrice": 1500,
+    "id": "1a6a041f-e6d0-45ee-8182-ab66a53f22b1",
+    "listingType": "rent",
+    "slug": "935-avenida-guadalajara-pelotas-3ZzSU8xpYbLF",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Tablada"
+  },
+  {
+    "place_id": "8202008",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "223623837",
+    "lat": -31.72238623285617,
+    "lon": -52.34280895359016,
+    "display_name": "Rua Raul Pompeia, Santa Terezinha, Três Vendas, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96065-360, Brazil",
+    "address": {
+      "road": "Rua Raul Pompeia",
+      "neighbourhood": "Santa Terezinha",
+      "suburb": "Três Vendas",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96065-360",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7222286",
+      "-31.7206336",
+      "-52.3454258",
+      "-52.3425463"
+    ],
+    "coordinates": [
+      -52.34280895359016,
+      -31.72238623285617
+    ],
+    "estimatedPrice": 1400,
+    "id": "1f8148a7-c4ca-4095-b48a-f1a2d6fbe8b8",
+    "listingType": "rent",
+    "slug": "3285-avenida-fernando-osorio-pelotas-8OIWOVodrpe1",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Santa Terezinha"
+  },
+  {
+    "place_id": "8162027",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "737123891",
+    "lat": -31.73371031571157,
+    "lon": -52.35243677991242,
+    "display_name": "Rua Albino Brod, Três Vendas, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96065-340, Brazil",
+    "address": {
+      "road": "Rua Albino Brod",
+      "suburb": "Três Vendas",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96065-340",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7340661",
+      "-31.7325834",
+      "-52.3533908",
+      "-52.3483927"
+    ],
+    "coordinates": [
+      -52.35243677991242,
+      -31.73371031571157
+    ],
+    "estimatedPrice": 2500,
+    "id": "239271fe-82f8-4e48-a43c-4ccbe5ec8bc5",
+    "listingType": "rent",
+    "slug": "810-rua-joal-teitelbaum-pelotas-9tBprsOf9CxU",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Três Vendas"
+  },
+  {
+    "place_id": "6588935",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "806647365",
+    "lat": -31.76050922552032,
+    "lon": -52.34626499594852,
+    "display_name": "1494, Rua Marcílio Dias, Castilho, Fragata, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96020-480, Brazil",
+    "address": {
+      "house_number": "1494",
+      "road": "Rua Marcílio Dias",
+      "neighbourhood": "Castilho",
+      "suburb": "Fragata",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96020-480",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.760507789984",
+      "-31.760407789984",
+      "-52.346436643775",
+      "-52.346336643775"
+    ],
+    "coordinates": [
+      -52.34626499594852,
+      -31.76050922552032
+    ],
+    "estimatedPrice": 14000,
+    "id": "24a4daf2-b904-479f-9fc0-cc8728b6fdea",
+    "listingType": "rent",
+    "slug": "1496-rua-marcilio-dias-pelotas-o4KyeS8coCFw",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Castilho"
+  },
+  {
+    "place_id": "6588570",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "808216418",
+    "lat": -31.769735319143056,
+    "lon": -52.34947294696555,
+    "display_name": "3345, Rua Tiradentes, Simões Lopes, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96020-010, Brazil",
+    "address": {
+      "house_number": "3345",
+      "road": "Rua Tiradentes",
+      "neighbourhood": "Simões Lopes",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96020-010",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.769413594051",
+      "-31.769313594051",
+      "-52.349417954413",
+      "-52.349317954413"
+    ],
+    "coordinates": [
+      -52.34947294696555,
+      -31.769735319143056
+    ],
+    "estimatedPrice": 50000,
+    "id": "2dfa9fc6-f128-403e-8f79-ce1bc9d81141",
+    "listingType": "rent",
+    "slug": "65-avenida-saldanha-marinho-pelotas-EqLchPlK1W9m",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Simões Lopes"
+  },
+  {
+    "place_id": "8208356",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "368396628",
+    "lat": -31.73650308006746,
+    "lon": -52.346402615260715,
+    "display_name": "Rua Paul Cézanne, Três Vendas, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96055-035, Brazil",
+    "address": {
+      "road": "Rua Paul Cézanne",
+      "suburb": "Três Vendas",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96055-035",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7369206",
+      "-31.7342911",
+      "-52.3461463",
+      "-52.3460342"
+    ],
+    "coordinates": [
+      -52.346402615260715,
+      -31.73650308006746
+    ],
+    "estimatedPrice": 4000,
+    "id": "2f59cfb1-24e9-4622-b018-47f3ecefd7e3",
+    "listingType": "rent",
+    "slug": "31-rua-paul-cezanne-pelotas-9UvJcaY2RdsB",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Três Vendas"
+  },
+  {
+    "place_id": "8189746",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "368390525",
+    "lat": -31.694180307759844,
+    "lon": -52.29256074271058,
+    "display_name": "Areal, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96060-294, Brazil",
+    "address": {
+      "suburb": "Areal",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96060-294",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.6955429",
+      "-31.6942402",
+      "-52.2945474",
+      "-52.290818"
+    ],
+    "coordinates": [
+      -52.29256074271058,
+      -31.694180307759844
+    ],
+    "estimatedPrice": 2200,
+    "id": "3628d1b7-ad0b-425f-9447-310097a172f9",
+    "listingType": "rent",
+    "slug": "318-avenida-engenheiro-ildefonso-simoes-lopes-pelotas-XE1fYhNZYHfJ",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Areal"
+  },
+  {
+    "place_id": "6591163",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "795839627",
+    "lat": -31.774169118521026,
+    "lon": -52.3434949014219,
+    "display_name": "390, Rua Quinze de Novembro, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96020-010, Brazil",
+    "address": {
+      "house_number": "390",
+      "road": "Rua Quinze de Novembro",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96020-010",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.774207677738",
+      "-31.774107677738",
+      "-52.343594429011",
+      "-52.343494429011"
+    ],
+    "coordinates": [
+      -52.3434949014219,
+      -31.774169118521026
+    ],
+    "estimatedPrice": 1500,
+    "id": "36da1f06-3329-444e-97b3-0f3d0683ff39",
+    "listingType": "rent",
+    "slug": "402-rua-quinze-de-novembro-pelotas-sP8FMeGlUw1i",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Centro"
+  },
+  {
+    "place_id": "8224838",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "198238067",
+    "lat": -31.765837023525346,
+    "lon": -52.332312463500976,
+    "display_name": "Rua General Argolo, Fátima, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96015-140, Brazil",
+    "address": {
+      "road": "Rua General Argolo",
+      "neighbourhood": "Fátima",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96015-140",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7660676",
+      "-31.764088",
+      "-52.3340879",
+      "-52.3315139"
+    ],
+    "coordinates": [
+      -52.332312463500976,
+      -31.765837023525346
+    ],
+    "estimatedPrice": 2500,
+    "id": "374ae8ee-36f4-419a-9d3e-51aee1c2b193",
+    "listingType": "rent",
+    "slug": "195-rua-general-argolo-pelotas-gWZHynten9gs",
+    "type": "land",
+    "tipo": "rent",
+    "neighbourhood": "Fátima"
+  },
+  {
+    "place_id": "8206444",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "462606444",
+    "lat": -31.750410211953362,
+    "lon": -52.33951744604573,
+    "display_name": "Shopping Zona Norte, Avenida Fernando Osório, Colina do Sol, Três Vendas, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96020-470, Brazil",
+    "address": {
+      "mall": "Shopping Zona Norte",
+      "road": "Avenida Fernando Osório",
+      "neighbourhood": "Colina do Sol",
+      "suburb": "Três Vendas",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96020-470",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7502383",
+      "-31.7496499",
+      "-52.3400741",
+      "-52.3394888"
+    ],
+    "coordinates": [
+      -52.33951744604573,
+      -31.750410211953362
+    ],
+    "estimatedPrice": 1200,
+    "id": "3b75f3d3-b396-44e6-a31a-2a1db9f8d8b7",
+    "listingType": "rent",
+    "slug": "10-rua-jose-pinto-martins-pelotas-QVaQm4gQPP5n",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Colina do Sol"
+  },
+  {
+    "place_id": "8228862",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "node",
+    "osm_id": "8969230364",
+    "lat": -31.768556264534478,
+    "lon": -52.338962292251495,
+    "display_name": "Ellos Odontologia, 160, Rua Sete de Setembro, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96015-300, Brazil",
+    "address": {
+      "dentist": "Ellos Odontologia",
+      "house_number": "160",
+      "road": "Rua Sete de Setembro",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96015-300",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7685961",
+      "-31.7684961",
+      "-52.3389737",
+      "-52.3388737"
+    ],
+    "coordinates": [
+      -52.338962292251495,
+      -31.768556264534478
+    ],
+    "estimatedPrice": 1000,
+    "id": "3ccf73a6-ca29-4f23-9528-20597202824e",
+    "listingType": "rent",
+    "slug": "160-rua-sete-de-setembro-pelotas-ofuFkI2mBQ9j",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Centro"
+  },
+  {
+    "place_id": "6590399",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "825210639",
+    "lat": -31.75900436930014,
+    "lon": -52.31994310233543,
+    "display_name": "1499, Avenida Ferreira Viana, Areal, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96077-080, Brazil",
+    "address": {
+      "house_number": "1499",
+      "road": "Avenida Ferreira Viana",
+      "suburb": "Areal",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96077-080",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.759432210325",
+      "-31.759332210325",
+      "-52.319891268568",
+      "-52.319791268568"
+    ],
+    "coordinates": [
+      -52.31994310233543,
+      -31.75900436930014
+    ],
+    "estimatedPrice": 7500,
+    "id": "44347f33-19b1-4513-a4ac-23e5101c0b55",
+    "listingType": "rent",
+    "slug": "206-rua-clovis-gularte-candiota-pelotas-B8WRkWvJk1m8",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Areal"
+  },
+  {
+    "place_id": "6587134",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "802273192",
+    "lat": -31.770696058022356,
+    "lon": -52.34734021157751,
+    "display_name": "283, Rua General Telles, Simões Lopes, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96010-160, Brazil",
+    "address": {
+      "house_number": "283",
+      "road": "Rua General Telles",
+      "neighbourhood": "Simões Lopes",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96010-160",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.770781444681",
+      "-31.770681444681",
+      "-52.347293610638",
+      "-52.347193610638"
+    ],
+    "coordinates": [
+      -52.34734021157751,
+      -31.770696058022356
+    ],
+    "estimatedPrice": 2700,
+    "id": "47f4ec27-0ffe-46b8-acce-51cda8f59f28",
+    "listingType": "rent",
+    "slug": "301-rua-barao-de-santa-de-tecla-pelotas-m8BYl14X2wla",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Simões Lopes"
+  },
+  {
+    "place_id": "6588500",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "802025268",
+    "lat": -31.771963773576683,
+    "lon": -52.34407609982212,
+    "display_name": "1295, Rua Andrade Neves, Loteamento General Osório, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96020-010, Brazil",
+    "address": {
+      "house_number": "1295",
+      "road": "Rua Andrade Neves",
+      "neighbourhood": "Loteamento General Osório",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96020-010",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.772024021369",
+      "-31.771924021369",
+      "-52.3441052253",
+      "-52.3440052253"
+    ],
+    "coordinates": [
+      -52.34407609982212,
+      -31.771963773576683
+    ],
+    "estimatedPrice": 11500,
+    "id": "4a2f0944-35e3-4409-8d4b-beb63e69ae54",
+    "listingType": "rent",
+    "slug": "1293-rua-general-telles-pelotas-BA2VnJjCqbfp",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Loteamento General Osório"
+  },
+  {
+    "place_id": "6589858",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "786996336",
+    "lat": -31.761191425865583,
+    "lon": -52.34080845792121,
+    "display_name": "997, Rua General Osório, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96020-000, Brazil",
+    "address": {
+      "house_number": "997",
+      "road": "Rua General Osório",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96020-000",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.761221829768",
+      "-31.761121829768",
+      "-52.340856836781",
+      "-52.340756836781"
+    ],
+    "coordinates": [
+      -52.34080845792121,
+      -31.761191425865583
+    ],
+    "estimatedPrice": 2180,
+    "id": "53cab89b-85b4-4a03-87bf-409bd9c4812f",
+    "listingType": "rent",
+    "slug": "1023-rua-general-osorio-pelotas-QVCLcc0QWlAU",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Centro"
+  },
+  {
+    "place_id": "8200477",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "368390493",
+    "lat": -31.70794374605556,
+    "lon": -52.338765381466594,
+    "display_name": "Rua Alberto Neitzel Filho, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96070-740, Brazil",
+    "address": {
+      "road": "Rua Alberto Neitzel Filho",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96070-740",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7082041",
+      "-31.7069264",
+      "-52.3387571",
+      "-52.3382047"
+    ],
+    "coordinates": [
+      -52.338765381466594,
+      -31.70794374605556
+    ],
+    "estimatedPrice": 500,
+    "id": "5fca4319-cabf-467e-8cc1-48403278f49c",
+    "listingType": "rent",
+    "slug": "905-rua-clio-fiori-druck-pelotas-ztR8o5ZW1VnG",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Sede"
+  },
+  {
+    "place_id": "6588500",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "802025268",
+    "lat": -31.772225393915797,
+    "lon": -52.344309369764154,
+    "display_name": "1257, Rua Andrade Neves, Loteamento General Osório, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96020-010, Brazil",
+    "address": {
+      "house_number": "1257",
+      "road": "Rua Andrade Neves",
+      "neighbourhood": "Loteamento General Osório",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96020-010",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.772335336378",
+      "-31.772235336378",
+      "-52.344235411576",
+      "-52.344135411576"
+    ],
+    "coordinates": [
+      -52.344309369764154,
+      -31.772225393915797
+    ],
+    "estimatedPrice": 6500,
+    "id": "61504746-005a-40d6-aec6-42f8fc86e423",
+    "listingType": "rent",
+    "slug": "1259-rua-andrade-neves-pelotas-qTxL7XIXeO16",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Loteamento General Osório"
+  },
+  {
+    "place_id": "8188242",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "1138443646",
+    "lat": -31.763842741517397,
+    "lon": -52.35477007925215,
+    "display_name": "Praça 20 de Setembro, Padre Reus, Fragata, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96015-360, Brazil",
+    "address": {
+      "road": "Praça 20 de Setembro",
+      "neighbourhood": "Padre Reus",
+      "suburb": "Fragata",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96015-360",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7642675",
+      "-31.7641242",
+      "-52.3549843",
+      "-52.3546914"
+    ],
+    "coordinates": [
+      -52.35477007925215,
+      -31.763842741517397
+    ],
+    "estimatedPrice": 1400,
+    "id": "62594318-17da-4ef3-be49-25fedb61cef6",
+    "listingType": "rent",
+    "slug": "846-pra-a-vinte-de-setembro-pelotas-JsuAsRzTF1lR",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Padre Reus"
+  },
+  {
+    "place_id": "8197734",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "178668076",
+    "lat": -31.752162666427154,
+    "lon": -52.320224162834116,
+    "display_name": "Rua Marechal Carlos de Mesquita, Areal, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96080-200, Brazil",
+    "address": {
+      "road": "Rua Marechal Carlos de Mesquita",
+      "suburb": "Areal",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96080-200",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7521908",
+      "-31.7502133",
+      "-52.3204712",
+      "-52.3185907"
+    ],
+    "coordinates": [
+      -52.320224162834116,
+      -31.752162666427154
+    ],
+    "estimatedPrice": 4200,
+    "id": "6626046a-f8f4-4ddb-a74d-1972c41eae32",
+    "listingType": "rent",
+    "slug": "2562-avenida-sao-francisco-de-paula-pelotas-Oo3Feq1N1c4S",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Areal"
+  },
+  {
+    "place_id": "8106985",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "642313479",
+    "lat": -31.750613799078963,
+    "lon": -52.246244093227475,
+    "display_name": "Rua 2, Alphaville Pelotas, Laranjal / Z3, Z3, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96090-000, Brazil",
+    "address": {
+      "road": "Rua 2",
+      "neighbourhood": "Alphaville Pelotas",
+      "suburb": "Laranjal / Z3",
+      "city_district": "Z3",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96090-000",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7512311",
+      "-31.7479239",
+      "-52.2512079",
+      "-52.2457143"
+    ],
+    "coordinates": [
+      -52.246244093227475,
+      -31.750613799078963
+    ],
+    "estimatedPrice": 8500,
+    "id": "674956af-9572-4397-b75f-bf03ba1d0e4e",
+    "listingType": "rent",
+    "slug": "h21-avenida-adolfo-fetter-4331-pelotas-kciXOR9rkrYr",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Alphaville Pelotas"
+  },
+  {
+    "place_id": "8172391",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "node",
+    "osm_id": "11198265680",
+    "lat": -31.7650791919994,
+    "lon": -52.31748420440507,
+    "display_name": "Atlas Centro de Treinamento 2, 191, Loja 4, Rua Suzana Cortez Balreira, Parque Una, São Gonçalo, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96075-160, Brazil",
+    "address": {
+      "fitness_centre": "Atlas Centro de Treinamento 2",
+      "house_number": "191, Loja 4",
+      "road": "Rua Suzana Cortez Balreira",
+      "suburb": "Parque Una",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96075-160",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7653221",
+      "-31.7652221",
+      "-52.3180281",
+      "-52.3179281"
+    ],
+    "coordinates": [
+      -52.31748420440507,
+      -31.7650791919994
+    ],
+    "estimatedPrice": 1950,
+    "id": "69e06223-0199-4aad-adf8-ad2e30deb922",
+    "listingType": "rent",
+    "slug": "100-avenida-dois-ltm-parque-una-pelotas-pelotas-3PNgAH5QyDVh",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Parque Una"
+  },
+  {
+    "place_id": "8190796",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "491932376",
+    "lat": -31.740521638876825,
+    "lon": -52.3434128681443,
+    "display_name": "Moinho Office, Avenida Dom Joaquim, Colina do Sol, Três Vendas, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96055-035, Brazil",
+    "address": {
+      "commercial": "Moinho Office",
+      "road": "Avenida Dom Joaquim",
+      "neighbourhood": "Colina do Sol",
+      "suburb": "Três Vendas",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96055-035",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7408538",
+      "-31.7400272",
+      "-52.3440841",
+      "-52.342853"
+    ],
+    "coordinates": [
+      -52.3434128681443,
+      -31.740521638876825
+    ],
+    "estimatedPrice": 2500,
+    "id": "6bafe5e8-e396-48e7-8fec-85e27be0981a",
+    "listingType": "rent",
+    "slug": "1515-avenida-dom-joaquim-ferreira-de-mello-pelotas-TmwjycTZdlAJ",
+    "type": "commercial",
+    "tipo": "rent",
+    "neighbourhood": "Colina do Sol"
+  },
+  {
+    "place_id": "8207633",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "204048175",
+    "lat": -31.728906826295432,
+    "lon": -52.32767630906742,
+    "display_name": "Rua Barroso Neto, Tablada, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96060-460, Brazil",
+    "address": {
+      "road": "Rua Barroso Neto",
+      "neighbourhood": "Tablada",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96060-460",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7308343",
+      "-31.7286124",
+      "-52.3286003",
+      "-52.3251376"
+    ],
+    "coordinates": [
+      -52.32767630906742,
+      -31.728906826295432
+    ],
+    "estimatedPrice": 1000,
+    "id": "6c8ae632-e46f-441b-ac3a-205fcb2f40e0",
+    "listingType": "rent",
+    "slug": "730-rua-leopoldo-miguez-pelotas-5xBZNbSky4RF",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Tablada"
+  },
+  {
+    "place_id": "8172391",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "node",
+    "osm_id": "11198265680",
+    "lat": -31.765181488573884,
+    "lon": -52.31813335596056,
+    "display_name": "Atlas Centro de Treinamento 2, 191, Loja 4, Rua Suzana Cortez Balreira, Parque Una, São Gonçalo, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96075-160, Brazil",
+    "address": {
+      "fitness_centre": "Atlas Centro de Treinamento 2",
+      "house_number": "191, Loja 4",
+      "road": "Rua Suzana Cortez Balreira",
+      "suburb": "Parque Una",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96075-160",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7653221",
+      "-31.7652221",
+      "-52.3180281",
+      "-52.3179281"
+    ],
+    "coordinates": [
+      -52.31813335596056,
+      -31.765181488573884
+    ],
+    "estimatedPrice": 2700,
+    "id": "71c9480a-e030-4d93-9b7a-cd6a6b52b461",
+    "listingType": "rent",
+    "slug": "191-rua-um-ltm-parque-una-pelotas-pelotas-c44Mg0EigEF0",
+    "type": "commercial",
+    "tipo": "rent",
+    "neighbourhood": "Parque Una"
+  },
+  {
+    "place_id": "8206032",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "node",
+    "osm_id": "8306546937",
+    "lat": -31.743818919583926,
+    "lon": -52.3279366461847,
+    "display_name": "Prime Auto Esporte, Avenida Juscelino Kubitschek de Oliveira, Loteamento Bom Jesus, Areal, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96080-690, Brazil",
+    "address": {
+      "car_repair": "Prime Auto Esporte",
+      "road": "Avenida Juscelino Kubitschek de Oliveira",
+      "neighbourhood": "Loteamento Bom Jesus",
+      "suburb": "Areal",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96080-690",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7437631",
+      "-31.7436631",
+      "-52.3287032",
+      "-52.3286032"
+    ],
+    "coordinates": [
+      -52.3279366461847,
+      -31.743818919583926
+    ],
+    "estimatedPrice": 1500,
+    "id": "721d4611-b9d6-4e0d-b9ea-40e7c5b7d2c0",
+    "listingType": "rent",
+    "slug": "4715-rua-padre-anchieta-pelotas-d6NHNLhqULuY",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Loteamento Bom Jesus"
+  },
+  {
+    "place_id": "364740438",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "803925209",
+    "lat": -31.75609562354452,
+    "lon": -52.34373114005561,
+    "display_name": "1565, Rua Professor Doutor Araújo, Castilho, Fragata, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96020-360, Brazil",
+    "address": {
+      "house_number": "1565",
+      "road": "Rua Professor Doutor Araújo",
+      "neighbourhood": "Castilho",
+      "suburb": "Fragata",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96020-360",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.756169695947",
+      "-31.756069695947",
+      "-52.343739151396",
+      "-52.343639151396"
+    ],
+    "coordinates": [
+      -52.34373114005561,
+      -31.75609562354452
+    ],
+    "estimatedPrice": 3200,
+    "id": "7b9cadd0-e14a-4c4c-89a4-824fa49ee154",
+    "listingType": "rent",
+    "slug": "1575-rua-professor-araujo-pelotas-neoCiK0Y9Y0N",
+    "type": "land",
+    "tipo": "rent",
+    "neighbourhood": "Castilho"
+  },
+  {
+    "place_id": "8217551",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "494919516",
+    "lat": -31.712920546640436,
+    "lon": -52.354102952109166,
+    "display_name": "EEEF Doutor Procópio Duval, 634, Rua Plácido de Castro, Lindóia, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96065-710, Brazil",
+    "address": {
+      "school": "EEEF Doutor Procópio Duval",
+      "house_number": "634",
+      "road": "Rua Plácido de Castro",
+      "neighbourhood": "Lindóia",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96065-710",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7130234",
+      "-31.7125231",
+      "-52.3546198",
+      "-52.354031"
+    ],
+    "coordinates": [
+      -52.354102952109166,
+      -31.712920546640436
+    ],
+    "estimatedPrice": 1150,
+    "id": "7c46413a-4f52-4302-82cc-69085b9222ae",
+    "listingType": "rent",
+    "slug": "584-rua-placido-de-castro-pelotas-K6vCwAebI2c9",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Lindóia"
+  },
+  {
+    "place_id": "8110357",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "1346411330",
+    "lat": -31.76362950946764,
+    "lon": -52.31288085800006,
+    "display_name": "Parque Una, São Gonçalo, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96075-160, Brazil",
+    "address": {
+      "suburb": "Parque Una",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96075-160",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7639574",
+      "-31.7636814",
+      "-52.3131419",
+      "-52.3126828"
+    ],
+    "coordinates": [
+      -52.31288085800006,
+      -31.76362950946764
+    ],
+    "estimatedPrice": 6000,
+    "id": "7d4b958c-fe99-4952-b34e-cbed28cfbbaf",
+    "listingType": "rent",
+    "slug": "770-travessa-leonel-de-moura-brizola-pelotas-KCX6ydnXPRR6",
+    "type": "land",
+    "tipo": "rent",
+    "neighbourhood": "Parque Una"
+  },
+  {
+    "place_id": "8163360",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "node",
+    "osm_id": "8306546930",
+    "lat": -31.73967375781235,
+    "lon": -52.32794315531529,
+    "display_name": "Maria Flor, Avenida Juscelino Kubitschek de Oliveira, Loteamento Bom Jesus, Areal, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96080-690, Brazil",
+    "address": {
+      "furniture": "Maria Flor",
+      "road": "Avenida Juscelino Kubitschek de Oliveira",
+      "neighbourhood": "Loteamento Bom Jesus",
+      "suburb": "Areal",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96080-690",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7397092",
+      "-31.7396092",
+      "-52.3281184",
+      "-52.3280184"
+    ],
+    "coordinates": [
+      -52.32794315531529,
+      -31.73967375781235
+    ],
+    "estimatedPrice": 13000,
+    "id": "7df2279e-eabe-445e-a37a-1c22aa44ae85",
+    "listingType": "rent",
+    "slug": "5084-avenida-presidente-juscelino-kubitschek-de-oliveira-pelotas-PxlOjReuEcaY",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Loteamento Bom Jesus"
+  },
+  {
+    "place_id": "8205464",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "368387911",
+    "lat": -31.719835934297468,
+    "lon": -52.30917911385875,
+    "display_name": "Rua Rui Ávila Rodrigues, Arco Íris, Areal, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96070-400, Brazil",
+    "address": {
+      "road": "Rua Rui Ávila Rodrigues",
+      "neighbourhood": "Arco Íris",
+      "suburb": "Areal",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96070-400",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7228503",
+      "-31.7189324",
+      "-52.3107789",
+      "-52.3045277"
+    ],
+    "coordinates": [
+      -52.30917911385875,
+      -31.719835934297468
+    ],
+    "estimatedPrice": 1500,
+    "id": "833667d3-580d-4c4c-a0dc-e3ab26864c4b",
+    "listingType": "rent",
+    "slug": "191-rua-rubens-avila-rodrigues-pelotas-agYwd1cagSqS",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Arco Íris"
+  },
+  {
+    "place_id": "8024523",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "108513841",
+    "lat": -31.742824514548865,
+    "lon": -52.32661589981698,
+    "display_name": "Avenida São Francisco de Paula, Loteamento Bom Jesus, Areal, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96080-730, Brazil",
+    "address": {
+      "road": "Avenida São Francisco de Paula",
+      "neighbourhood": "Loteamento Bom Jesus",
+      "suburb": "Areal",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96080-730",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.754926",
+      "-31.7382502",
+      "-52.327671",
+      "-52.3193109"
+    ],
+    "coordinates": [
+      -52.32661589981698,
+      -31.742824514548865
+    ],
+    "estimatedPrice": 2200,
+    "id": "88b68464-5e18-4b99-80b4-e0ed6202495f",
+    "listingType": "rent",
+    "slug": "3691-avenida-sao-francisco-de-paula-pelotas-A6XagGHUFixi",
+    "type": "land",
+    "tipo": "rent",
+    "neighbourhood": "Loteamento Bom Jesus"
+  },
+  {
+    "place_id": "6588965",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "803925205",
+    "lat": -31.76030911257833,
+    "lon": -52.345070647545754,
+    "display_name": "1107, Rua Professor Araújo, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96015-290, Brazil",
+    "address": {
+      "house_number": "1107",
+      "road": "Rua Professor Araújo",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96015-290",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.760239888727",
+      "-31.760139888727",
+      "-52.345411901858",
+      "-52.345311901858"
+    ],
+    "coordinates": [
+      -52.345070647545754,
+      -31.76030911257833
+    ],
+    "estimatedPrice": 1700,
+    "id": "8a0e9baf-fa13-4151-a77e-216190b56b71",
+    "listingType": "rent",
+    "slug": "1456-rua-general-argolo-pelotas-PobHHWexvVwl",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Centro"
+  },
+  {
+    "place_id": "8199584",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "368396631",
+    "lat": -31.73950066237603,
+    "lon": -52.34638890613763,
+    "display_name": "Rua Cláudio Neutzling, Três Vendas, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96055-035, Brazil",
+    "address": {
+      "road": "Rua Cláudio Neutzling",
+      "suburb": "Três Vendas",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96055-035",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7397187",
+      "-31.7394096",
+      "-52.3467046",
+      "-52.3443094"
+    ],
+    "coordinates": [
+      -52.34638890613763,
+      -31.73950066237603
+    ],
+    "estimatedPrice": 1600,
+    "id": "8c5e55ab-3d8b-46b9-a80f-8ab9a7e746c7",
+    "listingType": "rent",
+    "slug": "178-rua-presbitero-claudio-neutzling-pelotas-OYXU2JosKx1S",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Três Vendas"
+  },
+  {
+    "place_id": "8667487",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "node",
+    "osm_id": "8272185820",
+    "lat": -31.730978043944933,
+    "lon": -52.34461383179547,
+    "display_name": "2257, Avenida Fernando Osório, Três Vendas, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96055-080, Brazil",
+    "address": {
+      "house_number": "2257",
+      "road": "Avenida Fernando Osório",
+      "suburb": "Três Vendas",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96055-080",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7310773",
+      "-31.7309773",
+      "-52.3443695",
+      "-52.3442695"
+    ],
+    "coordinates": [
+      -52.34461383179547,
+      -31.730978043944933
+    ],
+    "estimatedPrice": 1500,
+    "id": "8f74e235-7841-4c3f-8b19-6bd00777305a",
+    "listingType": "rent",
+    "slug": "2287-avenida-fernando-osorio-pelotas-TL42HjMfTAVW",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Três Vendas"
+  },
+  {
+    "place_id": "8203541",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "204048203",
+    "lat": -31.732237161333668,
+    "lon": -52.33300988411577,
+    "display_name": "Passeio Doutor Oliveira Viana, Tablada, Três Vendas, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96055-740, Brazil",
+    "address": {
+      "road": "Passeio Doutor Oliveira Viana",
+      "neighbourhood": "Tablada",
+      "suburb": "Três Vendas",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96055-740",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7336342",
+      "-31.7321132",
+      "-52.3336972",
+      "-52.3328886"
+    ],
+    "coordinates": [
+      -52.33300988411577,
+      -31.732237161333668
+    ],
+    "estimatedPrice": 1400,
+    "id": "90801b38-aaad-47c2-b892-4e34288a821f",
+    "listingType": "rent",
+    "slug": "73-rua-euclides-cunha-pelotas-ltv1dSf85pgN",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Tablada"
+  },
+  {
+    "place_id": "8162324",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "542989266",
+    "lat": -31.745515563266054,
+    "lon": -52.23283318924185,
+    "display_name": "Avenida Adolfo Fetter, Laranjal / Z3, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96090-580, Brazil",
+    "address": {
+      "road": "Avenida Adolfo Fetter",
+      "suburb": "Laranjal / Z3",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96090-580",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.750861",
+      "-31.7364875",
+      "-52.240294",
+      "-52.2224765"
+    ],
+    "coordinates": [
+      -52.23283318924185,
+      -31.745515563266054
+    ],
+    "estimatedPrice": 3500,
+    "id": "972d1d12-02e0-431e-9496-59723ee80247",
+    "listingType": "rent",
+    "slug": "5522-avenida-adolfo-fetter-pelotas-FuIAdxJFikEM",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Laranjal / Z3"
+  },
+  {
+    "place_id": "8219136",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "462606441",
+    "lat": -31.76700760153322,
+    "lon": -52.33978770523006,
+    "display_name": "Galeria Zabaleta, Rua Quinze de Novembro, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96020-080, Brazil",
+    "address": {
+      "mall": "Galeria Zabaleta",
+      "road": "Rua Quinze de Novembro",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96020-080",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7670347",
+      "-31.7666078",
+      "-52.3405131",
+      "-52.3394731"
+    ],
+    "coordinates": [
+      -52.33978770523006,
+      -31.76700760153322
+    ],
+    "estimatedPrice": 2500,
+    "id": "9cf1f91d-39e4-494e-a4f4-ad04c1a1e47d",
+    "listingType": "rent",
+    "slug": "2105-rua-padre-anchieta-pelotas-okgLesbrPtFP",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Centro"
+  },
+  {
+    "place_id": "6589842",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "802273199",
+    "lat": -31.75921886773802,
+    "lon": -52.342556420743364,
+    "display_name": "767, Rua Barão de Santa Tecla, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96020-220, Brazil",
+    "address": {
+      "house_number": "767",
+      "road": "Rua Barão de Santa Tecla",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96020-220",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.759347138141",
+      "-31.759247138141",
+      "-52.342416861629",
+      "-52.342316861629"
+    ],
+    "coordinates": [
+      -52.342556420743364,
+      -31.75921886773802
+    ],
+    "estimatedPrice": 2900,
+    "id": "a1c34bc4-0503-460e-8e84-7478def1ef15",
+    "listingType": "rent",
+    "slug": "775-rua-barao-de-santa-de-tecla-pelotas-NEYfR67JzcbU",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Centro"
+  },
+  {
+    "place_id": "8205229",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "189673216",
+    "lat": -31.744154931975526,
+    "lon": -52.29513327147641,
+    "display_name": "Avenida João Gomes Nogueira, Obelisco, Areal, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96085-010, Brazil",
+    "address": {
+      "road": "Avenida João Gomes Nogueira",
+      "neighbourhood": "Obelisco",
+      "suburb": "Areal",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96085-010",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.748038",
+      "-31.741748",
+      "-52.2971959",
+      "-52.2939475"
+    ],
+    "coordinates": [
+      -52.29513327147641,
+      -31.744154931975526
+    ],
+    "estimatedPrice": 4000,
+    "id": "a5651f42-7fc5-4a68-945c-af4b7dd5f2fd",
+    "listingType": "rent",
+    "slug": "620-avenida-joao-gomes-nogueira-pelotas-enNGey695OpX",
+    "type": "land",
+    "tipo": "rent",
+    "neighbourhood": "Obelisco"
+  },
+  {
+    "place_id": "8219657",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "178739637",
+    "lat": -31.741445420670924,
+    "lon": -52.33228358129861,
+    "display_name": "Rua Francisco Santos, Residencial Nova Tablada, Três Vendas, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96055-830, Brazil",
+    "address": {
+      "road": "Rua Francisco Santos",
+      "neighbourhood": "Residencial Nova Tablada",
+      "suburb": "Três Vendas",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96055-830",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7422026",
+      "-31.7394639",
+      "-52.3352813",
+      "-52.3314211"
+    ],
+    "coordinates": [
+      -52.33228358129861,
+      -31.741445420670924
+    ],
+    "estimatedPrice": 1650,
+    "id": "ac0bfc38-77a4-4ff0-b5ec-8a6ed3158e09",
+    "listingType": "rent",
+    "slug": "290-rua-maestro-bandeira-pelotas-rSqPuGcPaPc8",
+    "type": "land",
+    "tipo": "rent",
+    "neighbourhood": "Residencial Nova Tablada"
+  },
+  {
+    "place_id": "6588549",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "809867868",
+    "lat": -31.77049899671737,
+    "lon": -52.34599790038768,
+    "display_name": "3023, Rua Tiradentes, Simões Lopes, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96020-010, Brazil",
+    "address": {
+      "house_number": "3023",
+      "road": "Rua Tiradentes",
+      "neighbourhood": "Simões Lopes",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96020-010",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.770439321981",
+      "-31.770339321981",
+      "-52.3460209925",
+      "-52.3459209925"
+    ],
+    "coordinates": [
+      -52.34599790038768,
+      -31.77049899671737
+    ],
+    "estimatedPrice": 1450,
+    "id": "b1a89a4b-c71d-4d16-aedf-7ecba7ea9389",
+    "listingType": "rent",
+    "slug": "3021-rua-tiradentes-pelotas-3fNXKNwbUAUa",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Simões Lopes"
+  },
+  {
+    "place_id": "6589298",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "842179961",
+    "lat": -31.764230513360218,
+    "lon": -52.34347141613341,
+    "display_name": "448, Rua Doutor Cassiano, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96020-080, Brazil",
+    "address": {
+      "house_number": "448",
+      "road": "Rua Doutor Cassiano",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96020-080",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.76434004276",
+      "-31.76424004276",
+      "-52.343533524149",
+      "-52.343433524149"
+    ],
+    "coordinates": [
+      -52.34347141613341,
+      -31.764230513360218
+    ],
+    "estimatedPrice": 17000,
+    "id": "bfd4aa3e-a373-4c64-b21e-b65fe2fabfa7",
+    "listingType": "rent",
+    "slug": "855-rua-marechal-deodoro-da-fonseca-pelotas-3kM2HIjIMlov",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Centro"
+  },
+  {
+    "place_id": "8205741",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "178677459",
+    "lat": -31.734938040380197,
+    "lon": -52.32168219766984,
+    "display_name": "Rua Vereador Élbio Abreu, Loteamento Jardim das Tradições, Areal, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96080-000, Brazil",
+    "address": {
+      "road": "Rua Vereador Élbio Abreu",
+      "neighbourhood": "Loteamento Jardim das Tradições",
+      "suburb": "Areal",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96080-000",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7367471",
+      "-31.7338907",
+      "-52.3233098",
+      "-52.3195084"
+    ],
+    "coordinates": [
+      -52.32168219766984,
+      -31.734938040380197
+    ],
+    "estimatedPrice": 1500,
+    "id": "cc4b1939-ec57-4e0a-839a-09568494626c",
+    "listingType": "rent",
+    "slug": "662-rua-yolanda-pereira-pelotas-d7M8R3r8LUmP",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Loteamento Jardim das Tradições"
+  },
+  {
+    "place_id": "8218685",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "178514917",
+    "lat": -31.753465762006712,
+    "lon": -52.30456739301491,
+    "display_name": "Rua General Gomes Portinho, Areal, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96077-040, Brazil",
+    "address": {
+      "road": "Rua General Gomes Portinho",
+      "suburb": "Areal",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96077-040",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7552453",
+      "-31.7533617",
+      "-52.307957",
+      "-52.3027098"
+    ],
+    "coordinates": [
+      -52.30456739301491,
+      -31.753465762006712
+    ],
+    "estimatedPrice": 7700,
+    "id": "d44d60e5-226c-4e40-ace2-3ff5a3ac178b",
+    "listingType": "rent",
+    "slug": "305-rua-joaquim-vieira-da-cunha-pelotas-MvKAM2N4wRys",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Areal"
+  },
+  {
+    "place_id": "8198598",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "368396562",
+    "lat": -31.729433260982553,
+    "lon": -52.348776635517794,
+    "display_name": "Três Vendas, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96065-620, Brazil",
+    "address": {
+      "suburb": "Três Vendas",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96065-620",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7283076",
+      "-31.7278003",
+      "-52.3500775",
+      "-52.3492006"
+    ],
+    "coordinates": [
+      -52.348776635517794,
+      -31.729433260982553
+    ],
+    "estimatedPrice": 800,
+    "id": "d580a2f5-70e6-48f2-9874-611efc599fd5",
+    "listingType": "rent",
+    "slug": "201-rua-joao-jacob-bainy-pelotas-mqDSayh5uiFB",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Três Vendas"
+  },
+  {
+    "place_id": "6591284",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "809867876",
+    "lat": -31.77348060151459,
+    "lon": -52.33356884467645,
+    "display_name": "1810, Rua Tiradentes, Fátima, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96010-500, Brazil",
+    "address": {
+      "house_number": "1810",
+      "road": "Rua Tiradentes",
+      "neighbourhood": "Fátima",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96010-500",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.773899978019",
+      "-31.773799978019",
+      "-52.333738707167",
+      "-52.333638707167"
+    ],
+    "coordinates": [
+      -52.33356884467645,
+      -31.77348060151459
+    ],
+    "estimatedPrice": 1100,
+    "id": "dc54a78b-bb81-4d87-96c4-5cbef576679a",
+    "listingType": "rent",
+    "slug": "341-rua-tiradentes-pelotas-7QYEDhKoUb5u",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Fátima"
+  },
+  {
+    "place_id": "364740440",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "891740068",
+    "lat": -31.76044448672089,
+    "lon": -52.32967997570764,
+    "display_name": "2508, Avenida Juscelino Kubitschek de Oliveira, Areal, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96075-006, Brazil",
+    "address": {
+      "house_number": "2508",
+      "road": "Avenida Juscelino Kubitschek de Oliveira",
+      "suburb": "Areal",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96075-006",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.760551743023",
+      "-31.760451743023",
+      "-52.329888031156",
+      "-52.329788031156"
+    ],
+    "coordinates": [
+      -52.32967997570764,
+      -31.76044448672089
+    ],
+    "estimatedPrice": 1250,
+    "id": "dccd0a5f-e76b-4ad5-be82-fb369165cc1e",
+    "listingType": "rent",
+    "slug": "2488-avenida-presidente-juscelino-kubitschek-de-oliveira-pelotas-7ymgOqZWzAt3",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Areal"
+  },
+  {
+    "place_id": "8213645",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "223094913",
+    "lat": -31.751456355187912,
+    "lon": -52.33466746261315,
+    "display_name": "Rua Barão de Azevedo Machado, Fragata, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96020-350, Brazil",
+    "address": {
+      "road": "Rua Barão de Azevedo Machado",
+      "suburb": "Fragata",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96020-350",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7521167",
+      "-31.7489664",
+      "-52.3395787",
+      "-52.3313906"
+    ],
+    "coordinates": [
+      -52.33466746261315,
+      -31.751456355187912
+    ],
+    "estimatedPrice": 8500,
+    "id": "e48fa628-13c7-4386-ad34-468ada9d0bd5",
+    "listingType": "rent",
+    "slug": "291-rua-barao-de-azevedo-machado-pelotas-4oE21mw4SYPh",
+    "type": "house",
+    "tipo": "rent",
+    "neighbourhood": "Fragata"
+  },
+  {
+    "place_id": "8242191",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "485026959",
+    "lat": -31.776386132786953,
+    "lon": -52.33199292390034,
+    "display_name": "Rua Dom Pedro II, Porto, Centro, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96010-500, Brazil",
+    "address": {
+      "road": "Rua Dom Pedro II",
+      "neighbourhood": "Porto",
+      "suburb": "Centro",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96010-500",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7770233",
+      "-31.7763133",
+      "-52.333378",
+      "-52.3310861"
+    ],
+    "coordinates": [
+      -52.33199292390034,
+      -31.776386132786953
+    ],
+    "estimatedPrice": 1900,
+    "id": "e6869ae4-9378-4a75-8fad-0e54b2b6975c",
+    "listingType": "rent",
+    "slug": "238-rua-dom-pedro-ii-pelotas-gEGTR3RMwEak",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Porto"
+  },
+  {
+    "place_id": "8212313",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "node",
+    "osm_id": "4654642844",
+    "lat": -31.756323055685225,
+    "lon": -52.30797550264902,
+    "display_name": "Panvel, Rua Visconde de Ouro Preto, Areal, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96077-080, Brazil",
+    "address": {
+      "pharmacy": "Panvel",
+      "road": "Rua Visconde de Ouro Preto",
+      "suburb": "Areal",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96077-080",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7569429",
+      "-31.7568429",
+      "-52.3079247",
+      "-52.3078247"
+    ],
+    "coordinates": [
+      -52.30797550264902,
+      -31.756323055685225
+    ],
+    "estimatedPrice": 2500,
+    "id": "e7b7b23d-6a0c-4a24-bb1e-a35a73182a4b",
+    "listingType": "rent",
+    "slug": "2719-avenida-ferreira-viana-pelotas-zRvmCdc1A1uK",
+    "type": "apartment",
+    "tipo": "rent",
+    "neighbourhood": "Areal"
+  },
+  {
+    "place_id": "8214198",
+    "licence": "https://locationiq.com/attribution",
+    "osm_type": "way",
+    "osm_id": "962819765",
+    "lat": -31.767344612557284,
+    "lon": -52.33020041572421,
+    "display_name": "Fátima, São Gonçalo, Sede, Pelotas, Região Geográfica Imediata de Pelotas, Aglomeração Urbana do Sul, Região Geográfica Intermediária de Pelotas, Rio Grande do Sul, South Region, 96010-430, Brazil",
+    "address": {
+      "neighbourhood": "Fátima",
+      "suburb": "São Gonçalo",
+      "city_district": "Sede",
+      "city": "Pelotas",
+      "municipality": "Região Geográfica Imediata de Pelotas",
+      "county": "Aglomeração Urbana do Sul",
+      "state_district": "Região Geográfica Intermediária de Pelotas",
+      "state": "Rio Grande do Sul",
+      "region": "South Region",
+      "postcode": "96010-430",
+      "country": "Brazil",
+      "country_code": "br"
+    },
+    "boundingbox": [
+      "-31.7693178",
+      "-31.7662735",
+      "-52.3313996",
+      "-52.3275771"
+    ],
+    "coordinates": [
+      -52.33020041572421,
+      -31.767344612557284
+    ],
+    "estimatedPrice": 1420,
+    "id": "f2baefa1-b02d-48f3-8ee3-dae08dd4a611",
+    "listingType": "rent",
+    "slug": "1900-avenida-presidente-juscelino-kubitschek-de-oliveira-pelotas-0dWgw7DZDiBh",
+    "type": "land",
+    "tipo": "rent",
+    "neighbourhood": "Fátima"
+  },
+  {
     "place_id": "8112366",
     "licence": "https://locationiq.com/attribution",
     "osm_type": "way",
@@ -37,7 +2414,7 @@
     "listingType": "sale",
     "slug": "1625-rua-cacapava-do-sul-pelotas-cBFSVRAsSKWp",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Pontal"
   },
   {
@@ -78,7 +2455,7 @@
     "listingType": "sale",
     "slug": "f12-avenida-adolfo-fetter-4831-pelotas-LC5GtFODFmiL",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -118,7 +2495,7 @@
     "listingType": "sale",
     "slug": "231-rua-olegario-mariano-pelotas-pPrdSWispJLO",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -157,7 +2534,7 @@
     "listingType": "sale",
     "slug": "282-rua-blau-nunes-pelotas-4PdPsBLgi3li",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -198,7 +2575,7 @@
     "listingType": "sale",
     "slug": "3243-avenida-sao-francisco-de-paula-pelotas-kCbnh6btdfpy",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Bom Jesus"
   },
   {
@@ -238,7 +2615,7 @@
     "listingType": "sale",
     "slug": "249-rua-paul-cezanne-pelotas-2j9fzsGD8mlp",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -280,7 +2657,7 @@
     "listingType": "sale",
     "slug": "123-rua-marques-de-marica-pelotas-UkoMuvFjqzbJ",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Cruzeiro"
   },
   {
@@ -321,7 +2698,7 @@
     "listingType": "sale",
     "slug": "560-rua-gon-alves-chaves-pelotas-BKyaIVTgN87c",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -362,7 +2739,7 @@
     "listingType": "sale",
     "slug": "268-rua-maestro-bandeira-pelotas-JkKLxPqnC2ZF",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Residencial Nova Tablada"
   },
   {
@@ -404,7 +2781,7 @@
     "listingType": "sale",
     "slug": "1078-rua-quinze-de-novembro-pelotas-UgCUhkwo3oX4",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -444,7 +2821,7 @@
     "listingType": "sale",
     "slug": "94-rua-vereador-dario-gastaud-de-oliveira-pelotas-IUL1VtVwMGft",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -485,7 +2862,7 @@
     "listingType": "sale",
     "slug": "1529-rua-esteio-pelotas-ubrFpOI6hVEm",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Pontal"
   },
   {
@@ -526,7 +2903,7 @@
     "listingType": "sale",
     "slug": "f05-avenida-adolfo-fetter-4331-pelotas-DdYjEZtLEIrT",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -567,7 +2944,7 @@
     "listingType": "sale",
     "slug": "173-rua-engenheiro-saturnino-de-britto-pelotas-TOqpEGvkann1",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Barão de Mauá"
   },
   {
@@ -608,7 +2985,7 @@
     "listingType": "sale",
     "slug": "774-avenida-jose-maria-da-fontoura-pelotas-yREOO9Pw2PxA",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -649,7 +3026,7 @@
     "listingType": "sale",
     "slug": "235-rua-tenente-lira-pelotas-QKqCScBCV0RB",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Verona"
   },
   {
@@ -690,7 +3067,7 @@
     "listingType": "sale",
     "slug": "4808-avenida-presidente-juscelino-kubitschek-de-oliveira-pelotas-xirANkjzardm",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Bom Jesus"
   },
   {
@@ -732,7 +3109,7 @@
     "listingType": "sale",
     "slug": "1371-avenida-dom-joaquim-ferreira-de-mello-pelotas-cqcT1t909Hqn",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -774,7 +3151,7 @@
     "listingType": "sale",
     "slug": "1567-rua-almirante-barroso-pelotas-mT35LHr1lJ4T",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Porto"
   },
   {
@@ -817,7 +3194,7 @@
     "listingType": "sale",
     "slug": "698-avenida-ferreira-viana-pelotas-WQ7WNgE5Jk5y",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Cruzeiro"
   },
   {
@@ -858,7 +3235,7 @@
     "listingType": "sale",
     "slug": "1035-rua-voluntarios-da-patria-pelotas-DzExztCGPsq6",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -900,7 +3277,7 @@
     "listingType": "sale",
     "slug": "1965-rua-almirante-barroso-pelotas-hTMUdXR0IKGe",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fátima"
   },
   {
@@ -941,7 +3318,7 @@
     "listingType": "sale",
     "slug": "3452-avenida-sao-francisco-de-paula-pelotas-xGdsnkb7R0Sk",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Bom Jesus"
   },
   {
@@ -983,7 +3360,7 @@
     "listingType": "sale",
     "slug": "1128-avenida-duque-de-caxias-pelotas-8YbA9AyCmgPX",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Verona"
   },
   {
@@ -1025,7 +3402,7 @@
     "listingType": "sale",
     "slug": "2646-rua-almirante-barroso-pelotas-bcBfyg7jWfQ9",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fátima"
   },
   {
@@ -1066,7 +3443,7 @@
     "listingType": "sale",
     "slug": "1756-rua-elgar-carlos-hadler-pelotas-fU9uqxgiLvyu",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Umuharama"
   },
   {
@@ -1107,7 +3484,7 @@
     "listingType": "sale",
     "slug": "1259-rua-general-osorio-pelotas-jGBNzsHTzJmW",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fragata"
   },
   {
@@ -1149,7 +3526,7 @@
     "listingType": "sale",
     "slug": "1379-rua-tres-de-maio-pelotas-DR4tjyKHgb8u",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Simões Lopes"
   },
   {
@@ -1187,7 +3564,7 @@
     "listingType": "sale",
     "slug": "1698-rua-dois-ltm-danubio-pelotas-VlfaUIoLwOJh",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Sede"
   },
   {
@@ -1229,7 +3606,7 @@
     "listingType": "sale",
     "slug": "709-rua-frontino-vieira-pelotas-yJQCqvHYkFOd",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Verona"
   },
   {
@@ -1269,7 +3646,7 @@
     "listingType": "sale",
     "slug": "765-rua-um-ltm-parque-una-pelotas-pelotas-riccGwP0tK9v",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Parque Una"
   },
   {
@@ -1310,7 +3687,7 @@
     "listingType": "sale",
     "slug": "256-rua-marcos-costa-pelotas-xGCjRVTxqWsw",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Verona"
   },
   {
@@ -1351,7 +3728,7 @@
     "listingType": "sale",
     "slug": "192-rua-taquari-pelotas-GqJDASnNYRdN",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -1392,7 +3769,7 @@
     "listingType": "sale",
     "slug": "4472-rua-padre-anchieta-pelotas-Y4Ol2xgUTnaE",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Bom Jesus"
   },
   {
@@ -1433,7 +3810,7 @@
     "listingType": "sale",
     "slug": "e06-avenida-adolfo-fetter-4331-pelotas-CRKo5LWs75Ng",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -1473,7 +3850,7 @@
     "listingType": "sale",
     "slug": "249-rua-professor-souza-lobo-pelotas-yUN9MTCGjtXL",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -1515,7 +3892,7 @@
     "listingType": "sale",
     "slug": "410-rua-sao-manoel-pelotas-9gVXa75W2RTH",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santa Terezinha"
   },
   {
@@ -1556,7 +3933,7 @@
     "listingType": "sale",
     "slug": "2650-rua-carlos-gotuzzo-giacoboni-pelotas-wHVFouAb6yvo",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Vila dos Tocos"
   },
   {
@@ -1597,7 +3974,7 @@
     "listingType": "sale",
     "slug": "h10-avenida-adolfo-fetter-4831-pelotas-BbQhKS6Xtm0v",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -1637,7 +4014,7 @@
     "listingType": "sale",
     "slug": "323-rua-senador-cruz-jobim-pelotas-M919sT0ZXYCD",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -1677,7 +4054,7 @@
     "listingType": "sale",
     "slug": "150-rua-doutor-edmundo-berchon-pelotas-1f7lDlameXZD",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -1719,7 +4096,7 @@
     "listingType": "sale",
     "slug": "255-rua-marcos-costa-pelotas-dEzd660IynI0",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Verona"
   },
   {
@@ -1760,7 +4137,7 @@
     "listingType": "sale",
     "slug": "b71-avenida-adolfo-fetter-3551-pelotas-wm1tURvv2DP3",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Laranjal / Z3"
   },
   {
@@ -1801,7 +4178,7 @@
     "listingType": "sale",
     "slug": "1151-rua-santo-angelo-pelotas-WwK4Znl0s8Vy",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -1841,7 +4218,7 @@
     "listingType": "sale",
     "slug": "2640-avenida-manoel-antonio-peres-pelotas-BC4tUZyIQ82r",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Dunas"
   },
   {
@@ -1881,7 +4258,7 @@
     "listingType": "sale",
     "slug": "1509-rua-doutor-claudio-manoel-da-costa-pelotas-Jvz78YHhalyI",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -1922,7 +4299,7 @@
     "listingType": "sale",
     "slug": "460-rua-sao-jose-do-norte-pelotas-FPfPO6Wj3f8r",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -1964,7 +4341,7 @@
     "listingType": "sale",
     "slug": "248-rua-justino-sereno-ribeiro-pelotas-nKll8krrxOWW",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Umuharama"
   },
   {
@@ -2005,7 +4382,7 @@
     "listingType": "sale",
     "slug": "615-rua-adalberto-morana-martins-pelotas-BqTLbBIdft6W",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -2045,7 +4422,7 @@
     "listingType": "sale",
     "slug": "3851-rua-padre-anchieta-pelotas-ImgMN46iP6wk",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Sede"
   },
   {
@@ -2086,7 +4463,7 @@
     "listingType": "sale",
     "slug": "874-rua-marechal-deodoro-da-fonseca-pelotas-Tirq9NMSIr3A",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -2127,7 +4504,7 @@
     "listingType": "sale",
     "slug": "684-rua-povoas-junior-pelotas-TdiYf4Z26J6i",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Residencial Nova Tablada"
   },
   {
@@ -2168,7 +4545,7 @@
     "listingType": "sale",
     "slug": "d07-travessa-leonel-de-moura-brizola-650-pelotas-p2DcPcOrmKWk",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "São Gonçalo"
   },
   {
@@ -2208,7 +4585,7 @@
     "listingType": "sale",
     "slug": "e20-avenida-adolfo-fetter-3551-pelotas-Q1M1cjePaHNN",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Z3"
   },
   {
@@ -2248,7 +4625,7 @@
     "listingType": "sale",
     "slug": "810-rua-joal-teitelbaum-pelotas-9tBprsOf9CxU",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -2289,7 +4666,7 @@
     "listingType": "sale",
     "slug": "2747-rua-doutor-francisco-antunes-junior-pelotas-W1loFy9W2ora",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Arco Íris"
   },
   {
@@ -2330,7 +4707,7 @@
     "listingType": "sale",
     "slug": "121-rua-vacaria-pelotas-Svyr4Lma4EeV",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -2371,7 +4748,7 @@
     "listingType": "sale",
     "slug": "1546-avenida-rio-grande-do-sul-pelotas-e73Mt2dDdw02",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Altos do Laranjal"
   },
   {
@@ -2412,7 +4789,7 @@
     "listingType": "sale",
     "slug": "179-rua-cidade-de-faro-pelotas-hNpdzR4Vi59C",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -2453,7 +4830,7 @@
     "listingType": "sale",
     "slug": "42-rua-carlos-gomes-pelotas-D4MZa5jcqAXC",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Residencial Nova Tablada"
   },
   {
@@ -2495,7 +4872,7 @@
     "listingType": "sale",
     "slug": "835-rua-joao-jacob-bainy-pelotas-7GYqqYLXefKP",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -2536,7 +4913,7 @@
     "listingType": "sale",
     "slug": "b31-avenida-adolfo-fetter-3551-pelotas-6tDrFCKr12xV",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Laranjal / Z3"
   },
   {
@@ -2577,7 +4954,7 @@
     "listingType": "sale",
     "slug": "960-rua-professora-vanda-da-silva-chagas-pelotas-yAfewyq52XZK",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -2618,7 +4995,7 @@
     "listingType": "sale",
     "slug": "1020-rua-jaguarao-pelotas-jJK2Fjzh6IXB",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -2660,7 +5037,7 @@
     "listingType": "sale",
     "slug": "272-rua-justino-sereno-ribeiro-pelotas-Ri9hr2nOO60A",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Umuharama"
   },
   {
@@ -2701,7 +5078,7 @@
     "listingType": "sale",
     "slug": "c34-travessa-leonel-de-moura-brizola-650-pelotas-Asjzn2mZO0Qq",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "São Gonçalo"
   },
   {
@@ -2742,7 +5119,7 @@
     "listingType": "sale",
     "slug": "1043-rua-ulysses-batinga-pelotas-6uWuxhOlddLn",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Verona"
   },
   {
@@ -2783,7 +5160,7 @@
     "listingType": "sale",
     "slug": "2334-rua-andrade-neves-pelotas-RA4FmnuFstq4",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -2825,7 +5202,7 @@
     "listingType": "sale",
     "slug": "2149-rua-professor-araujo-pelotas-YnS6cOtVKSQ6",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Castilho"
   },
   {
@@ -2866,7 +5243,7 @@
     "listingType": "sale",
     "slug": "2685-rua-carlos-gotuzzo-giacoboni-pelotas-cDhTwWYbVrkC",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Vila dos Tocos"
   },
   {
@@ -2906,7 +5283,7 @@
     "listingType": "sale",
     "slug": "34-rua-vitor-valpirio-pelotas-947Ar6GGgH7c",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fragata"
   },
   {
@@ -2948,7 +5325,7 @@
     "listingType": "sale",
     "slug": "5080-avenida-presidente-juscelino-kubitschek-de-oliveira-pelotas-lQ1cCAcb2iKk",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Bom Jesus"
   },
   {
@@ -2990,7 +5367,7 @@
     "listingType": "sale",
     "slug": "1222-rua-octavio-do-amaral-peixoto-pelotas-EncXmHW97A73",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Vila dos Tocos"
   },
   {
@@ -3031,7 +5408,7 @@
     "listingType": "sale",
     "slug": "2224-rua-coronel-alberto-rosa-pelotas-y32VebCrOEy9",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Porto"
   },
   {
@@ -3072,7 +5449,7 @@
     "listingType": "sale",
     "slug": "1130-rua-novo-hamburgo-pelotas-ge0ZGTRjdoFg",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -3112,7 +5489,7 @@
     "listingType": "sale",
     "slug": "e22-avenida-adolfo-fetter-3551-pelotas-nW0wRU4WgCGL",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Z3"
   },
   {
@@ -3154,7 +5531,7 @@
     "listingType": "sale",
     "slug": "1155-rua-barao-de-azevedo-machado-pelotas-IPYSLm0XHzZ1",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -3195,7 +5572,7 @@
     "listingType": "sale",
     "slug": "1253-rua-cidade-de-viseu-pelotas-lUGtsl4f0U9F",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -3236,7 +5613,7 @@
     "listingType": "sale",
     "slug": "1649-rua-elgar-carlos-hadler-pelotas-kqPxm01LHR0Q",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Umuharama"
   },
   {
@@ -3277,7 +5654,7 @@
     "listingType": "sale",
     "slug": "1932-avenida-bento-goncalves-pelotas-TVpr86oWzCPt",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Navegantes III"
   },
   {
@@ -3317,7 +5694,7 @@
     "listingType": "sale",
     "slug": "b09-avenida-adolfo-fetter-4331-pelotas-cyoWB50FTRkl",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -3357,7 +5734,7 @@
     "listingType": "sale",
     "slug": "2750-avenida-manoel-antonio-peres-pelotas-MFzVUrhHSrRV",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Dunas"
   },
   {
@@ -3398,7 +5775,7 @@
     "listingType": "sale",
     "slug": "902-rua-barao-de-santa-de-tecla-pelotas-KAwlQJbf9Zq1",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -3439,7 +5816,7 @@
     "listingType": "sale",
     "slug": "g27-avenida-adolfo-fetter-4831-pelotas-x6XDtUxzWZaA",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -3480,7 +5857,7 @@
     "listingType": "sale",
     "slug": "2025-rua-antonio-rodrigues-duarte-da-silva-pelotas-7es8S7PSfdnJ",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Vila Assumpção I"
   },
   {
@@ -3520,7 +5897,7 @@
     "listingType": "sale",
     "slug": "g03-avenida-adolfo-fetter-4831-pelotas-7nYqnU3tqxLM",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -3561,7 +5938,7 @@
     "listingType": "sale",
     "slug": "120-rua-um-ltm-arroio-pelotas-pelotas-uxZvyRsvg4nB",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -3602,7 +5979,7 @@
     "listingType": "sale",
     "slug": "751-rua-taquari-pelotas-bkji2uUbCHTv",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -3643,7 +6020,7 @@
     "listingType": "sale",
     "slug": "543-rua-armando-voigt-pelotas-bF8Zq4RI6oIn",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santa Terezinha"
   },
   {
@@ -3684,7 +6061,7 @@
     "listingType": "sale",
     "slug": "927-rua-adalberto-morana-martins-pelotas-Ao8qxO8mT3Xs",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -3725,7 +6102,7 @@
     "listingType": "sale",
     "slug": "f1-travessa-leonel-de-moura-brizola-650-pelotas-LNwnIwL9lWbi",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "São Gonçalo"
   },
   {
@@ -3767,7 +6144,7 @@
     "listingType": "sale",
     "slug": "720-avenida-fernando-osorio-pelotas-dtPfKVV9z4FW",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -3808,7 +6185,7 @@
     "listingType": "sale",
     "slug": "402-rua-quinze-de-novembro-pelotas-sP8FMeGlUw1i",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -3849,7 +6226,7 @@
     "listingType": "sale",
     "slug": "195-rua-general-argolo-pelotas-gWZHynten9gs",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fátima"
   },
   {
@@ -3890,7 +6267,7 @@
     "listingType": "sale",
     "slug": "631-avenida-cristovao-jose-dos-santos-pelotas-fjbUSnQiSzEg",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Tablada"
   },
   {
@@ -3930,7 +6307,7 @@
     "listingType": "sale",
     "slug": "235-rua-santiago-dantas-pelotas-jXsenlcc6ztr",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -3971,7 +6348,7 @@
     "listingType": "sale",
     "slug": "987-rua-sao-borja-pelotas-Aw8BdDLk9INa",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -4012,7 +6389,7 @@
     "listingType": "sale",
     "slug": "921-rua-coronel-gomes-carneiro-pelotas-pd4xdXQBkkRj",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Porto"
   },
   {
@@ -4054,7 +6431,7 @@
     "listingType": "sale",
     "slug": "10-rua-jose-pinto-martins-pelotas-QVaQm4gQPP5n",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -4094,7 +6471,7 @@
     "listingType": "sale",
     "slug": "378-rua-paulo-marques-pelotas-GrRamLNq6EaE",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fragata"
   },
   {
@@ -4136,7 +6513,7 @@
     "listingType": "sale",
     "slug": "26-rua-senador-mendonca-pelotas-7dT07As0dTVw",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Castilho"
   },
   {
@@ -4177,7 +6554,7 @@
     "listingType": "sale",
     "slug": "1170-rua-doutor-bezerra-de-menezes-pelotas-YiTPfjgACrcV",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santa Terezinha"
   },
   {
@@ -4218,7 +6595,7 @@
     "listingType": "sale",
     "slug": "c45-avenida-adolfo-fetter-3551-pelotas-M5VURXpF3Z9K",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Laranjal / Z3"
   },
   {
@@ -4258,7 +6635,7 @@
     "listingType": "sale",
     "slug": "41-rua-zola-amaro-pelotas-DAuQkWzPAFuI",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -4300,7 +6677,7 @@
     "listingType": "sale",
     "slug": "505-rua-almirante-tamandare-pelotas-JEUKPXTcZEKO",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento General Osório"
   },
   {
@@ -4341,7 +6718,7 @@
     "listingType": "sale",
     "slug": "430-avenida-arthur-augusto-assumpcao-pelotas-RP74fJaceW8b",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -4382,7 +6759,7 @@
     "listingType": "sale",
     "slug": "10-pra-a-piratinino-de-almeida-pelotas-ooNFWMiB4B7H",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -4425,7 +6802,7 @@
     "listingType": "sale",
     "slug": "201-rua-felix-xavier-da-cunha-pelotas-QIMjDPprrXgv",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento General Osório"
   },
   {
@@ -4466,7 +6843,7 @@
     "listingType": "sale",
     "slug": "372-rua-bage-pelotas-rcsUSycXxbWP",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -4506,7 +6883,7 @@
     "listingType": "sale",
     "slug": "755-avenida-vinte-e-cinco-de-julho-pelotas-GmveHUKv9s3W",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -4547,7 +6924,7 @@
     "listingType": "sale",
     "slug": "120-rua-nilo-pecanha-pelotas-OjbXPvdgFIRK",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -4588,7 +6965,7 @@
     "listingType": "sale",
     "slug": "3594-avenida-espirito-santo-pelotas-gDECH4Amwcym",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -4629,7 +7006,7 @@
     "listingType": "sale",
     "slug": "f03-avenida-adolfo-fetter-4331-pelotas-owqonoXYndgd",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -4670,7 +7047,7 @@
     "listingType": "sale",
     "slug": "98-rua-gomes-jardim-pelotas-FOA7sWdnkEod",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -4711,7 +7088,7 @@
     "listingType": "sale",
     "slug": "1237-rua-cidade-do-porto-pelotas-UZKvVKXUndlc",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -4749,7 +7126,7 @@
     "listingType": "sale",
     "slug": "664-avenida-um-ltm-danubio-pelotas-6YJuv0bfxlsV",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Sede"
   },
   {
@@ -4789,7 +7166,7 @@
     "listingType": "sale",
     "slug": "b01-avenida-adolfo-fetter-4331-pelotas-cbuyfU2ouFI0",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -4830,7 +7207,7 @@
     "listingType": "sale",
     "slug": "173-rua-cidade-de-beja-pelotas-CfGAtZDXBSaj",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -4871,7 +7248,7 @@
     "listingType": "sale",
     "slug": "381-rua-caxias-do-sul-pelotas-BlwJsevq9rpj",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -4914,7 +7291,7 @@
     "listingType": "sale",
     "slug": "1434-avenida-vinte-e-cinco-de-julho-pelotas-4tISDvNBoSd7",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santa Terezinha"
   },
   {
@@ -4955,7 +7332,7 @@
     "listingType": "sale",
     "slug": "658-rua-doutor-cassiano-pelotas-n623QQ5UsAIH",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Padre Reus"
   },
   {
@@ -4995,7 +7372,7 @@
     "listingType": "sale",
     "slug": "408-rua-helena-coswig-leitzke-pelotas-urwD70QX4sWT",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Lindóia"
   },
   {
@@ -5036,7 +7413,7 @@
     "listingType": "sale",
     "slug": "919-rua-mostardas-pelotas-lyIv5zAGhrOl",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -5077,7 +7454,7 @@
     "listingType": "sale",
     "slug": "721-rua-cinco-ltm-res-amarilis-pelotas-HoNoubj0f6sN",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -5117,7 +7494,7 @@
     "listingType": "sale",
     "slug": "89-rua-manoel-rodrigues-gomes-pelotas-YeUd3Pa09Cyc",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -5159,7 +7536,7 @@
     "listingType": "sale",
     "slug": "55-rua-general-neto-pelotas-2y6zpEEFDT0e",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fátima"
   },
   {
@@ -5199,7 +7576,7 @@
     "listingType": "sale",
     "slug": "182-rua-senhor-ary-rodrigues-alcantara-pelotas-hWaLNGJQoiHG",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Las Acácias"
   },
   {
@@ -5240,7 +7617,7 @@
     "listingType": "sale",
     "slug": "922-rua-sete-ltm-res-amarilis-pelotas-Wk0crEEXYBpu",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -5282,7 +7659,7 @@
     "listingType": "sale",
     "slug": "147-avenida-sao-jorge-pelotas-nYZYmnYZCwZ3",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santa Terezinha"
   },
   {
@@ -5322,7 +7699,7 @@
     "listingType": "sale",
     "slug": "980-rua-coronel-manoel-lucas-de-oliveira-pelotas-3TftAtdFJL0j",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fragata"
   },
   {
@@ -5364,7 +7741,7 @@
     "listingType": "sale",
     "slug": "1361-avenida-senador-salgado-filho-pelotas-QjhMzcENayVC",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -5404,7 +7781,7 @@
     "listingType": "sale",
     "slug": "1700-avenida-engenheiro-ildefonso-simoes-lopes-pelotas-L6FFvpO26VGS",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -5447,7 +7824,7 @@
     "listingType": "sale",
     "slug": "565-rua-alziro-zarur-pelotas-6CYz98lIyzSO",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Arco Íris"
   },
   {
@@ -5488,7 +7865,7 @@
     "listingType": "sale",
     "slug": "k07-avenida-adolfo-fetter-4331-pelotas-iHOA9BEAqp4n",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -5528,7 +7905,7 @@
     "listingType": "sale",
     "slug": "105-rua-barao-de-azevedo-machado-pelotas-OoBniXi0OY1m",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fragata"
   },
   {
@@ -5569,7 +7946,7 @@
     "listingType": "sale",
     "slug": "1011-rua-quinze-de-novembro-pelotas-CadvwGuL8JHR",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -5610,7 +7987,7 @@
     "listingType": "sale",
     "slug": "170-rua-farroupilha-pelotas-ymOnDZHZrPGl",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -5652,7 +8029,7 @@
     "listingType": "sale",
     "slug": "b31-rua-doutor-nunes-vieira-455-pelotas-P2jpn8wVPq9p",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -5692,7 +8069,7 @@
     "listingType": "sale",
     "slug": "a18-avenida-adolfo-fetter-4331-pelotas-7mH4QamvoDEE",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -5734,7 +8111,7 @@
     "listingType": "sale",
     "slug": "1001-rua-general-argolo-pelotas-mR5HpqFfTPef",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Castilho"
   },
   {
@@ -5776,7 +8153,7 @@
     "listingType": "sale",
     "slug": "651-rua-francisco-lobo-da-costa-pelotas-0JV4BOwEFyZh",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Porto"
   },
   {
@@ -5817,7 +8194,7 @@
     "listingType": "sale",
     "slug": "667-rua-cidade-de-beja-pelotas-m18oUFpW2G6F",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -5857,7 +8234,7 @@
     "listingType": "sale",
     "slug": "550-rua-maestro-mendanha-pelotas-iWgwKG9pdO40",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Castilho"
   },
   {
@@ -5898,7 +8275,7 @@
     "listingType": "sale",
     "slug": "468-rua-felipe-dos-santos-pelotas-A1k8AafRkpxW",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Bom Jesus"
   },
   {
@@ -5939,7 +8316,7 @@
     "listingType": "sale",
     "slug": "2460-rua-encantado-pelotas-2CnOfdmLSuRG",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -5980,7 +8357,7 @@
     "listingType": "sale",
     "slug": "e25-avenida-adolfo-fetter-4831-pelotas-3LaZBEcMNvDx",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -6022,7 +8399,7 @@
     "listingType": "sale",
     "slug": "1169-rua-frontino-vieira-pelotas-c8fUOifcbZKz",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Verona"
   },
   {
@@ -6063,7 +8440,7 @@
     "listingType": "sale",
     "slug": "d45-rua-doutor-nunes-vieira-455-pelotas-hrgucXH2JdCU",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -6104,7 +8481,7 @@
     "listingType": "sale",
     "slug": "492-rua-maestro-bandeira-pelotas-8nE9LpE1tVeA",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Residencial Nova Tablada"
   },
   {
@@ -6144,7 +8521,7 @@
     "listingType": "sale",
     "slug": "1916-avenida-presidente-juscelino-kubitschek-de-oliveira-pelotas-d05D1wShgO71",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fátima"
   },
   {
@@ -6185,7 +8562,7 @@
     "listingType": "sale",
     "slug": "901-rua-cinco-ltm-res-amarilis-pelotas-xwICaeuUORlj",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -6226,7 +8603,7 @@
     "listingType": "sale",
     "slug": "610-avenida-jose-maria-da-fontoura-pelotas-Ey4DGwH6i0HE",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -6269,7 +8646,7 @@
     "listingType": "sale",
     "slug": "302-rua-quinze-de-novembro-pelotas-KJM800c36z0Q",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento General Osório"
   },
   {
@@ -6310,7 +8687,7 @@
     "listingType": "sale",
     "slug": "b43-avenida-adolfo-fetter-3551-pelotas-cjTumwlIRjhq",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Laranjal / Z3"
   },
   {
@@ -6351,7 +8728,7 @@
     "listingType": "sale",
     "slug": "713-avenida-rio-grande-do-sul-pelotas-gLbvOguUA0h2",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -6392,7 +8769,7 @@
     "listingType": "sale",
     "slug": "33-rua-miguel-tarnac-da-rocha-pelotas-v825Zb7haw0q",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -6434,7 +8811,7 @@
     "listingType": "sale",
     "slug": "1223-rua-barao-de-tramandahy-pelotas-dnPAc1W7Bjpt",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santa Terezinha"
   },
   {
@@ -6474,7 +8851,7 @@
     "listingType": "sale",
     "slug": "273-rua-doutor-edmundo-berchon-pelotas-AYSKEjHa6PG1",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -6515,7 +8892,7 @@
     "listingType": "sale",
     "slug": "395-rua-rio-grande-pelotas-FfSXV707JfdY",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -6556,7 +8933,7 @@
     "listingType": "sale",
     "slug": "570-rua-porto-alegre-pelotas-uEfChztLLE4u",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -6596,7 +8973,7 @@
     "listingType": "sale",
     "slug": "4156-rua-padre-anchieta-pelotas-BFu5kmTw4wka",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Sede"
   },
   {
@@ -6638,7 +9015,7 @@
     "listingType": "sale",
     "slug": "1978-rua-padre-anchieta-pelotas-7rE4YIVwSa2w",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -6679,7 +9056,7 @@
     "listingType": "sale",
     "slug": "k04-avenida-adolfo-fetter-4331-pelotas-UaExagVoamf2",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -6721,7 +9098,7 @@
     "listingType": "sale",
     "slug": "g35-avenida-adolfo-fetter-3551-pelotas-Fl1qf2cXr8XD",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Altos do Laranjal"
   },
   {
@@ -6763,7 +9140,7 @@
     "listingType": "sale",
     "slug": "606-rua-francisco-lobo-da-costa-pelotas-AV3ZaEVkNuxy",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fátima"
   },
   {
@@ -6803,7 +9180,7 @@
     "listingType": "sale",
     "slug": "e26-avenida-adolfo-fetter-3551-pelotas-W74VI8V4pK84",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Z3"
   },
   {
@@ -6844,7 +9221,7 @@
     "listingType": "sale",
     "slug": "2041-rua-capitao-nelson-pereira-pelotas-5kWMeOr0wURO",
     "type": "condo_house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Marina"
   },
   {
@@ -6885,7 +9262,7 @@
     "listingType": "sale",
     "slug": "1400-rua-marechal-deodoro-da-fonseca-pelotas-Ngc7fyFTkwLj",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -6927,7 +9304,7 @@
     "listingType": "sale",
     "slug": "10-rua-doutor-cassiano-pelotas-q5FeE6WkXZJP",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fátima"
   },
   {
@@ -6967,7 +9344,7 @@
     "listingType": "sale",
     "slug": "c03-avenida-adolfo-fetter-4831-pelotas-DEq3Fkbk3yTO",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -7007,7 +9384,7 @@
     "listingType": "sale",
     "slug": "331-rua-general-camara-pelotas-ra5zpQQrEWq4",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -7047,7 +9424,7 @@
     "listingType": "sale",
     "slug": "3399-avenida-presidente-juscelino-kubitschek-de-oliveira-pelotas-kltpxRg3UwVb",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Sede"
   },
   {
@@ -7088,7 +9465,7 @@
     "listingType": "sale",
     "slug": "555-rua-general-osorio-pelotas-c2ok7RsQcTEi",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -7130,7 +9507,7 @@
     "listingType": "sale",
     "slug": "2242-rua-rafael-pinto-bandeira-pelotas-G006FW8R9tpU",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -7169,7 +9546,7 @@
     "listingType": "sale",
     "slug": "621-rua-leopoldo-gotuzzo-pelotas-95XOs0krRnaZ",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -7210,7 +9587,7 @@
     "listingType": "sale",
     "slug": "121-rua-caxias-do-sul-pelotas-zV1oyiPedH61",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -7251,7 +9628,7 @@
     "listingType": "sale",
     "slug": "345-rua-barra-do-ribeiro-pelotas-pa6PWjpewlJD",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -7292,7 +9669,7 @@
     "listingType": "sale",
     "slug": "h21-avenida-adolfo-fetter-4331-pelotas-kciXOR9rkrYr",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -7333,7 +9710,7 @@
     "listingType": "sale",
     "slug": "1207-rua-general-osorio-pelotas-9qS2FbwKgzUy",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fragata"
   },
   {
@@ -7372,7 +9749,7 @@
     "listingType": "sale",
     "slug": "1065-rua-daniella-rocha-pinto-dani-rediess-pelotas-FrOkMyt5sjBI",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -7413,7 +9790,7 @@
     "listingType": "sale",
     "slug": "200-rua-quatro-ltm-reserva-assump-o-pelotas-DaQFnl00Pyod",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Vila Assumpção I"
   },
   {
@@ -7455,7 +9832,7 @@
     "listingType": "sale",
     "slug": "100-avenida-dois-ltm-parque-una-pelotas-pelotas-3PNgAH5QyDVh",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Parque Una"
   },
   {
@@ -7498,7 +9875,7 @@
     "listingType": "sale",
     "slug": "2179-avenida-pinheiro-machado-pelotas-eiOcpZRxCkgj",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Paineiras"
   },
   {
@@ -7539,7 +9916,7 @@
     "listingType": "sale",
     "slug": "2594-rua-andrade-neves-pelotas-Vw6fNoZ3rWyN",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -7581,7 +9958,7 @@
     "listingType": "sale",
     "slug": "1705-rua-tiradentes-pelotas-vomnk5H7KhYy",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fátima"
   },
   {
@@ -7623,7 +10000,7 @@
     "listingType": "sale",
     "slug": "1515-avenida-dom-joaquim-ferreira-de-mello-pelotas-TmwjycTZdlAJ",
     "type": "commercial",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -7664,7 +10041,7 @@
     "listingType": "sale",
     "slug": "1146-avenida-domingos-jose-de-almeida-pelotas-TV92e7CynrFn",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -7704,7 +10081,7 @@
     "listingType": "sale",
     "slug": "f10-avenida-adolfo-fetter-4831-pelotas-aOtr576CuGZC",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -7745,7 +10122,7 @@
     "listingType": "sale",
     "slug": "4420-avenida-presidente-juscelino-kubitschek-de-oliveira-pelotas-YogAIDQRBxFu",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Bom Jesus"
   },
   {
@@ -7785,7 +10162,7 @@
     "listingType": "sale",
     "slug": "232-rua-tomaz-soares-vieira-pelotas-JMi1jv0Bm9wM",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Las Acácias"
   },
   {
@@ -7826,7 +10203,7 @@
     "listingType": "sale",
     "slug": "720-avenida-vinte-e-cinco-de-julho-pelotas-uztbSemHZwKy",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santa Terezinha"
   },
   {
@@ -7867,7 +10244,7 @@
     "listingType": "sale",
     "slug": "902-avenida-domingos-jose-de-almeida-pelotas-aOnoiojLBAPa",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -7909,7 +10286,7 @@
     "listingType": "sale",
     "slug": "1193-avenida-adolfo-fetter-pelotas-MR4UWsu5yQd4",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -7950,7 +10327,7 @@
     "listingType": "sale",
     "slug": "722-rua-ana-terra-pelotas-5wAMIQtrjXWn",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Jardim das Tradições"
   },
   {
@@ -7991,7 +10368,7 @@
     "listingType": "sale",
     "slug": "801-rua-dom-pedro-ii-pelotas-qRQpIAcBYdPZ",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -8033,7 +10410,7 @@
     "listingType": "sale",
     "slug": "191-rua-um-ltm-parque-una-pelotas-pelotas-c44Mg0EigEF0",
     "type": "commercial",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Parque Una"
   },
   {
@@ -8074,7 +10451,7 @@
     "listingType": "sale",
     "slug": "1202-rua-vila-real-pelotas-4UBk5P7i0Msh",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -8115,7 +10492,7 @@
     "listingType": "sale",
     "slug": "1317-rua-lisboa-pelotas-VfXGymH4MTEU",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -8156,7 +10533,7 @@
     "listingType": "sale",
     "slug": "1051-rua-sao-borja-pelotas-DkBsJwsMZUi2",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -8198,7 +10575,7 @@
     "listingType": "sale",
     "slug": "4715-rua-padre-anchieta-pelotas-d6NHNLhqULuY",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Bom Jesus"
   },
   {
@@ -8239,7 +10616,7 @@
     "listingType": "sale",
     "slug": "k09-avenida-adolfo-fetter-4331-pelotas-Xo0grnTzwYzF",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -8280,7 +10657,7 @@
     "listingType": "sale",
     "slug": "181-rua-antonio-joaquim-dias-pelotas-f5DDerxCG8eu",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -8322,7 +10699,7 @@
     "listingType": "sale",
     "slug": "336-avenida-duque-de-caxias-pelotas-Sn0hR2YfMl6M",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Farroupilha"
   },
   {
@@ -8363,7 +10740,7 @@
     "listingType": "sale",
     "slug": "467-rua-doutor-benjamin-gastal-pelotas-wXz1fu7Zf6WK",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -8404,7 +10781,7 @@
     "listingType": "sale",
     "slug": "610-avenida-engenheiro-ildefonso-simoes-lopes-pelotas-sawbV50fYHdK",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Jardim das Tradições"
   },
   {
@@ -8445,7 +10822,7 @@
     "listingType": "sale",
     "slug": "1180-rua-comendador-rafael-mazza-pelotas-VKGPIXDxgE3F",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Obelisco"
   },
   {
@@ -8486,7 +10863,7 @@
     "listingType": "sale",
     "slug": "379-rua-jaguarao-pelotas-OOUDgApcbCqt",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -8526,7 +10903,7 @@
     "listingType": "sale",
     "slug": "938-avenida-dom-joaquim-ferreira-de-mello-pelotas-Xsu3phwmvSSm",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -8567,7 +10944,7 @@
     "listingType": "sale",
     "slug": "2843-rua-vinte-prq-res-arco-iris-pelotas-UKO4ejHoonme",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Arco Íris"
   },
   {
@@ -8609,7 +10986,7 @@
     "listingType": "sale",
     "slug": "523-avenida-jose-maria-da-fontoura-pelotas-dhdyH5ZjofBw",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -8650,7 +11027,7 @@
     "listingType": "sale",
     "slug": "b33-avenida-adolfo-fetter-3551-pelotas-um1PBfsAkGRw",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Laranjal / Z3"
   },
   {
@@ -8691,7 +11068,7 @@
     "listingType": "sale",
     "slug": "167-rua-cidade-de-pinheiro-machado-pelotas-v2g8lyn6Wehp",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -8733,7 +11110,7 @@
     "listingType": "sale",
     "slug": "506-avenida-pinheiro-machado-pelotas-e8RVCnvhoP4s",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Verona"
   },
   {
@@ -8774,7 +11151,7 @@
     "listingType": "sale",
     "slug": "3069-rua-padre-anchieta-pelotas-j0tCFhQNTFOt",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -8814,7 +11191,7 @@
     "listingType": "sale",
     "slug": "4579-rua-major-francisco-nunes-de-souza-pelotas-RrzNkzcjzYAl",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Cohab Fragata"
   },
   {
@@ -8854,7 +11231,7 @@
     "listingType": "sale",
     "slug": "a22-avenida-adolfo-fetter-4831-pelotas-z5hZIgBZNMmP",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -8896,7 +11273,7 @@
     "listingType": "sale",
     "slug": "610-rua-conde-de-porto-alegre-pelotas-evGNiPyQ1zJL",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento General Osório"
   },
   {
@@ -8938,7 +11315,7 @@
     "listingType": "sale",
     "slug": "b03-avenida-adolfo-fetter-3551-pelotas-BEkWb3Arj0K8",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Altos do Laranjal"
   },
   {
@@ -8979,7 +11356,7 @@
     "listingType": "sale",
     "slug": "2292-rua-sarandi-pelotas-1onQSEBG3sl3",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -9020,7 +11397,7 @@
     "listingType": "sale",
     "slug": "3555-avenida-presidente-juscelino-kubitschek-de-oliveira-pelotas-VVryUqxosUa1",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -9062,7 +11439,7 @@
     "listingType": "sale",
     "slug": "8027-avenida-doutor-antonio-augusto-de-assumpcao-junior-pelotas-bvqzqyP7tt0z",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -9104,7 +11481,7 @@
     "listingType": "sale",
     "slug": "1237-rua-general-argolo-pelotas-hd2TwKZIirZK",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Castilho"
   },
   {
@@ -9145,7 +11522,7 @@
     "listingType": "sale",
     "slug": "444-rua-barao-de-butuhy-pelotas-xinAncP2F3S8",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -9187,7 +11564,7 @@
     "listingType": "sale",
     "slug": "190-rua-um-ltm-parque-una-pelotas-pelotas-5utQ4omxAokl",
     "type": "commercial",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Parque Una"
   },
   {
@@ -9229,7 +11606,7 @@
     "listingType": "sale",
     "slug": "1575-rua-professor-araujo-pelotas-neoCiK0Y9Y0N",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Castilho"
   },
   {
@@ -9268,7 +11645,7 @@
     "listingType": "sale",
     "slug": "1031-avenida-dom-joaquim-ferreira-de-mello-pelotas-freFzpxL0nCd",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -9308,7 +11685,7 @@
     "listingType": "sale",
     "slug": "5400-avenida-adolfo-fetter-pelotas-q1pb9BdgQFcb",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Laranjal / Z3"
   },
   {
@@ -9347,7 +11724,7 @@
     "listingType": "sale",
     "slug": "770-travessa-leonel-de-moura-brizola-pelotas-KCX6ydnXPRR6",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Parque Una"
   },
   {
@@ -9388,7 +11765,7 @@
     "listingType": "sale",
     "slug": "3412-rua-andrade-neves-pelotas-9T9dMW3V60N8",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -9430,7 +11807,7 @@
     "listingType": "sale",
     "slug": "911-rua-general-telles-pelotas-V22lWoyhqzDF",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento General Osório"
   },
   {
@@ -9471,7 +11848,7 @@
     "listingType": "sale",
     "slug": "3429-rua-padre-anchieta-pelotas-MyjXPL6nFx9K",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -9513,7 +11890,7 @@
     "listingType": "sale",
     "slug": "755-rua-professor-paulo-zanotta-da-cruz-pelotas-sMAZR4P9exVk",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fragata"
   },
   {
@@ -9554,7 +11931,7 @@
     "listingType": "sale",
     "slug": "i25-avenida-adolfo-fetter-4331-pelotas-GctL2NFUWHwO",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -9595,7 +11972,7 @@
     "listingType": "sale",
     "slug": "8579-avenida-doutor-antonio-augusto-de-assumpcao-junior-pelotas-6mp1aFm7ecWh",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -9636,7 +12013,7 @@
     "listingType": "sale",
     "slug": "1508-rua-cidade-de-viseu-pelotas-iD3EUv2YDmX8",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -9677,7 +12054,7 @@
     "listingType": "sale",
     "slug": "275-avenida-otelmo-demari-alves-pelotas-3Oc7UppiWd1e",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -9719,7 +12096,7 @@
     "listingType": "sale",
     "slug": "610-rua-conde-de-porto-alegre-pelotas-HxFqvplaC3Oh",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento General Osório"
   },
   {
@@ -9760,7 +12137,7 @@
     "listingType": "sale",
     "slug": "176-rua-bage-pelotas-I0je539X3Coq",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -9801,7 +12178,7 @@
     "listingType": "sale",
     "slug": "1206-rua-murtosa-pelotas-TyKogBvH5fty",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -9843,7 +12220,7 @@
     "listingType": "sale",
     "slug": "57-rua-doutor-cassiano-pelotas-WLTXDAJjOrq1",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fátima"
   },
   {
@@ -9883,7 +12260,7 @@
     "listingType": "sale",
     "slug": "b11-avenida-adolfo-fetter-4831-pelotas-s44iqMTTcXc1",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -9924,7 +12301,7 @@
     "listingType": "sale",
     "slug": "3114-rua-almirante-barroso-pelotas-wfLU48dKWmh5",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -9966,7 +12343,7 @@
     "listingType": "sale",
     "slug": "358-rua-general-telles-pelotas-o846Epczv6zv",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fátima"
   },
   {
@@ -10007,7 +12384,7 @@
     "listingType": "sale",
     "slug": "k15-travessa-leonel-de-moura-brizola-650-pelotas-5INZAJHbnyTp",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "São Gonçalo"
   },
   {
@@ -10048,7 +12425,7 @@
     "listingType": "sale",
     "slug": "434-rua-emilio-jorge-dos-reis-pelotas-ejUawP7EsEK4",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -10089,7 +12466,7 @@
     "listingType": "sale",
     "slug": "h10-travessa-leonel-de-moura-brizola-650-pelotas-EIwUueeFLyIY",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "São Gonçalo"
   },
   {
@@ -10130,7 +12507,7 @@
     "listingType": "sale",
     "slug": "449-rua-senador-carlos-barbosa-pelotas-guP1mWAB43XK",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -10171,7 +12548,7 @@
     "listingType": "sale",
     "slug": "1196-rua-cidade-do-porto-pelotas-QSxnDCu8HbZF",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -10212,7 +12589,7 @@
     "listingType": "sale",
     "slug": "g13-travessa-leonel-de-moura-brizola-650-pelotas-1huSkw4ZhEnK",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "São Gonçalo"
   },
   {
@@ -10254,7 +12631,7 @@
     "listingType": "sale",
     "slug": "607-rua-general-telles-pelotas-8XDvt2eldpbC",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Porto"
   },
   {
@@ -10295,7 +12672,7 @@
     "listingType": "sale",
     "slug": "h18-avenida-adolfo-fetter-4331-pelotas-IF3LjXpz1r2x",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -10336,7 +12713,7 @@
     "listingType": "sale",
     "slug": "3691-avenida-sao-francisco-de-paula-pelotas-A6XagGHUFixi",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Bom Jesus"
   },
   {
@@ -10376,7 +12753,7 @@
     "listingType": "sale",
     "slug": "375-rua-um-ltm-liberdade-pelotas-GPavVTjt50uY",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -10417,7 +12794,7 @@
     "listingType": "sale",
     "slug": "965-rua-reverendo-alfredo-simon-pelotas-MqPPIAdCAWvx",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto do Lindóia"
   },
   {
@@ -10458,7 +12835,7 @@
     "listingType": "sale",
     "slug": "1832-rua-elgar-carlos-hadler-pelotas-YMaHFnDzi8ER",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Umuharama"
   },
   {
@@ -10499,7 +12876,7 @@
     "listingType": "sale",
     "slug": "511-rua-domingos-guedes-cabral-pelotas-hjKC2fzEcZog",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Padre Reus"
   },
   {
@@ -10538,7 +12915,7 @@
     "listingType": "sale",
     "slug": "676-avenida-pinheiro-machado-pelotas-1e5eYnwKgZrS",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fragata"
   },
   {
@@ -10579,7 +12956,7 @@
     "listingType": "sale",
     "slug": "401-rua-joao-jacob-bainy-pelotas-tEct9yYtw43O",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santa Terezinha"
   },
   {
@@ -10621,7 +12998,7 @@
     "listingType": "sale",
     "slug": "302-rua-carlos-henrique-nogueira-pelotas-9IKO1skXVw8W",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -10661,7 +13038,7 @@
     "listingType": "sale",
     "slug": "335-rua-doutor-edmundo-berchon-pelotas-tpAoH1FY9otu",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -10702,7 +13079,7 @@
     "listingType": "sale",
     "slug": "68-rua-cidinei-alves-dias-pelotas-YTRER331q3si",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Bom Jesus"
   },
   {
@@ -10743,7 +13120,7 @@
     "listingType": "sale",
     "slug": "144-rua-alvaro-chaves-pelotas-5BhduHoA9LdA",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Porto"
   },
   {
@@ -10783,7 +13160,7 @@
     "listingType": "sale",
     "slug": "178-rua-presbitero-claudio-neutzling-pelotas-OYXU2JosKx1S",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -10824,7 +13201,7 @@
     "listingType": "sale",
     "slug": "942-rua-sete-ltm-res-amarilis-pelotas-jnHKGdszcO6y",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -10865,7 +13242,7 @@
     "listingType": "sale",
     "slug": "d24-avenida-adolfo-fetter-4831-pelotas-RfkLx9ta5cQA",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -10906,7 +13283,7 @@
     "listingType": "sale",
     "slug": "2287-avenida-fernando-osorio-pelotas-TL42HjMfTAVW",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -10947,7 +13324,7 @@
     "listingType": "sale",
     "slug": "872-rua-sao-leopoldo-pelotas-6YaCChiyH6v1",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -10988,7 +13365,7 @@
     "listingType": "sale",
     "slug": "939-avenida-jose-maria-da-fontoura-pelotas-6wBG0v8g37Lk",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina Verde"
   },
   {
@@ -11029,7 +13406,7 @@
     "listingType": "sale",
     "slug": "600-avenida-presidente-juscelino-kubitschek-de-oliveira-pelotas-ydKdX96MgeE7",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Balsa"
   },
   {
@@ -11069,7 +13446,7 @@
     "listingType": "sale",
     "slug": "345-rua-doutor-bruno-chaves-pelotas-VYXoXMDyjvrQ",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -11111,7 +13488,7 @@
     "listingType": "sale",
     "slug": "834-rua-barao-de-santa-de-tecla-pelotas-V9H3Tvm5KsnH",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -11153,7 +13530,7 @@
     "listingType": "sale",
     "slug": "271-rua-professor-julio-gustavo-fehrenbach-pelotas-Tjesg8kzJ6Wg",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -11194,7 +13571,7 @@
     "listingType": "sale",
     "slug": "1825-rua-lisboa-pelotas-ZlDOENCrJstq",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -11236,7 +13613,7 @@
     "listingType": "sale",
     "slug": "662-rua-dom-pedro-ii-pelotas-RAjP3k5mCzts",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Porto"
   },
   {
@@ -11277,7 +13654,7 @@
     "listingType": "sale",
     "slug": "350-rua-domingos-guedes-cabral-pelotas-qxvjItZawM7R",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Padre Reus"
   },
   {
@@ -11318,7 +13695,7 @@
     "listingType": "sale",
     "slug": "b21-avenida-adolfo-fetter-3551-pelotas-ldlSPrHjFFdq",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Laranjal / Z3"
   },
   {
@@ -11359,7 +13736,7 @@
     "listingType": "sale",
     "slug": "j21-avenida-adolfo-fetter-4331-pelotas-cfLAaiP4jIT1",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -11400,7 +13777,7 @@
     "listingType": "sale",
     "slug": "1021-avenida-senador-salgado-filho-pelotas-tz3XqHoCsx1L",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Residencial Nova Tablada"
   },
   {
@@ -11441,7 +13818,7 @@
     "listingType": "sale",
     "slug": "c11-travessa-leonel-de-moura-brizola-650-pelotas-8vEdcrLYvsnV",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "São Gonçalo"
   },
   {
@@ -11481,7 +13858,7 @@
     "listingType": "sale",
     "slug": "220-rua-leopoldo-gotuzzo-pelotas-2y41cCycutCK",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -11523,7 +13900,7 @@
     "listingType": "sale",
     "slug": "281-rua-marcio-dias-pelotas-CIjMhgoKtpMf",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -11565,7 +13942,7 @@
     "listingType": "sale",
     "slug": "194-rua-piratini-pelotas-jz8anmfwJ1tV",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -11607,7 +13984,7 @@
     "listingType": "sale",
     "slug": "781-rua-sao-geraldo-pelotas-J0stvvXvXA7V",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santa Terezinha"
   },
   {
@@ -11648,7 +14025,7 @@
     "listingType": "sale",
     "slug": "e56-avenida-adolfo-fetter-3551-pelotas-cIFa1G2Z4zSX",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Laranjal / Z3"
   },
   {
@@ -11688,7 +14065,7 @@
     "listingType": "sale",
     "slug": "560-rua-um-ltm-liberdade-pelotas-87HMltA5fr36",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -11729,7 +14106,7 @@
     "listingType": "sale",
     "slug": "667-rua-doutor-claudio-manoel-da-costa-pelotas-RrFM8MHngXWn",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -11770,7 +14147,7 @@
     "listingType": "sale",
     "slug": "4563-rua-padre-anchieta-pelotas-qjkjskM69Cqf",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Residencial Nova Tablada"
   },
   {
@@ -11811,7 +14188,7 @@
     "listingType": "sale",
     "slug": "1404-avenida-rio-grande-do-sul-pelotas-mP5pbtdls4iu",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Altos do Laranjal"
   },
   {
@@ -11853,7 +14230,7 @@
     "listingType": "sale",
     "slug": "35-rua-senador-mendonca-pelotas-lqN5gi9irKGG",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Castilho"
   },
   {
@@ -11894,7 +14271,7 @@
     "listingType": "sale",
     "slug": "380-rua-reverendo-alfredo-simon-pelotas-fBVyOiCwsJYj",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto do Lindóia"
   },
   {
@@ -11935,7 +14312,7 @@
     "listingType": "sale",
     "slug": "h04-avenida-adolfo-fetter-4331-pelotas-wf3f6W3N3ssE",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -11976,7 +14353,7 @@
     "listingType": "sale",
     "slug": "106-rua-jose-halpern-pelotas-lI6u2qnXPGPE",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -12018,7 +14395,7 @@
     "listingType": "sale",
     "slug": "99-rua-doutor-jose-bonifacio-de-carvalho-costa-pelotas-fL9KTSlq5ds3",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -12060,7 +14437,7 @@
     "listingType": "sale",
     "slug": "160-rua-sao-pedro-pelotas-j6JNefnmsQN0",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santa Terezinha"
   },
   {
@@ -12101,7 +14478,7 @@
     "listingType": "sale",
     "slug": "200-rua-trinta-e-oito-vl-jardim-europa-pelotas-BjkIBFsywsTR",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Bom Jesus"
   },
   {
@@ -12143,7 +14520,7 @@
     "listingType": "sale",
     "slug": "1913-rua-francisco-lobo-da-costa-pelotas-gJDMCiaCYhfY",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Simões Lopes"
   },
   {
@@ -12183,7 +14560,7 @@
     "listingType": "sale",
     "slug": "51-avenida-adolfo-fetter-pelotas-HxcexSu3CpDb",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Altos do Laranjal"
   },
   {
@@ -12223,7 +14600,7 @@
     "listingType": "sale",
     "slug": "a12-avenida-adolfo-fetter-4331-pelotas-z7MxSaogJWPf",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -12264,7 +14641,7 @@
     "listingType": "sale",
     "slug": "947-rua-cinco-ltm-res-amarilis-pelotas-ChGL6H7c1jYQ",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -12306,7 +14683,7 @@
     "listingType": "sale",
     "slug": "627-rua-luiz-de-camoes-pelotas-oebzye9O5UXx",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Residencial Nova Tablada"
   },
   {
@@ -12347,7 +14724,7 @@
     "listingType": "sale",
     "slug": "210-avenida-otelmo-demari-alves-pelotas-L6nEXrvcR3tC",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -12388,7 +14765,7 @@
     "listingType": "sale",
     "slug": "390-rua-cidade-de-braganca-pelotas-LzM5h1OQiNVy",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -12429,7 +14806,7 @@
     "listingType": "sale",
     "slug": "9725-avenida-jorge-ivan-da-costa-gertum-pelotas-vnyhcmGF1PUJ",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Laranjal / Z3"
   },
   {
@@ -12470,7 +14847,7 @@
     "listingType": "sale",
     "slug": "174-rua-marechal-floriano-peixoto-pelotas-suL8j0qRvqHS",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -12511,7 +14888,7 @@
     "listingType": "sale",
     "slug": "607-rua-quinze-de-novembro-pelotas-HfEwPqBbSDpo",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -12552,7 +14929,7 @@
     "listingType": "sale",
     "slug": "i24-avenida-adolfo-fetter-4331-pelotas-yulPorJVbGBX",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -12593,7 +14970,7 @@
     "listingType": "sale",
     "slug": "360-rua-helena-assumpcao-de-assumpcao-pelotas-DeyJlsdWppZS",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -12634,7 +15011,7 @@
     "listingType": "sale",
     "slug": "50-rua-santa-vitoria-do-palmar-pelotas-1AcegvIOrJN8",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina Verde"
   },
   {
@@ -12674,7 +15051,7 @@
     "listingType": "sale",
     "slug": "800-rua-ernani-osmar-blaas-pelotas-MjdOkt17vu6X",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Jardim do Lindóia"
   },
   {
@@ -12715,7 +15092,7 @@
     "listingType": "sale",
     "slug": "3156-rua-andrade-neves-pelotas-0I4gdEwZMDwo",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -12756,7 +15133,7 @@
     "listingType": "sale",
     "slug": "52-rua-viamao-pelotas-aK6ZJMWV9J1M",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -12797,7 +15174,7 @@
     "listingType": "sale",
     "slug": "583-passeio-um-ltm-simoes-lopes-pelotas-nkzOjLnaZeCW",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Jardim das Tradições"
   },
   {
@@ -12836,7 +15213,7 @@
     "listingType": "sale",
     "slug": "509-rua-marques-de-queluz-pelotas-66QZfrOqxdhM",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fragata"
   },
   {
@@ -12876,7 +15253,7 @@
     "listingType": "sale",
     "slug": "g06-avenida-adolfo-fetter-4831-pelotas-QtV2iLfFftBy",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -12916,7 +15293,7 @@
     "listingType": "sale",
     "slug": "b06-avenida-adolfo-fetter-4331-pelotas-PdDBEc1cWqy5",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -12958,7 +15335,7 @@
     "listingType": "sale",
     "slug": "1340-rua-santa-cruz-pelotas-air683gg0o0f",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Porto"
   },
   {
@@ -12999,7 +15376,7 @@
     "listingType": "sale",
     "slug": "151-rua-um-ltm-arroio-pelotas-pelotas-Y1xztEjPfXYx",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -13040,7 +15417,7 @@
     "listingType": "sale",
     "slug": "l03-avenida-adolfo-fetter-4831-pelotas-5MzZvKFRjDji",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -13081,7 +15458,7 @@
     "listingType": "sale",
     "slug": "703-rua-quinze-de-novembro-pelotas-Ttbs80E9KrAP",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -13122,7 +15499,7 @@
     "listingType": "sale",
     "slug": "f04-avenida-adolfo-fetter-4331-pelotas-PzKXg6UOQ9v6",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -13163,7 +15540,7 @@
     "listingType": "sale",
     "slug": "632-rua-jose-pinto-martins-pelotas-j6Fr4SOJutZq",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fragata"
   },
   {
@@ -13204,7 +15581,7 @@
     "listingType": "sale",
     "slug": "146-rua-alvaro-chaves-pelotas-mE22RTVWBuwd",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Porto"
   },
   {
@@ -13245,7 +15622,7 @@
     "listingType": "sale",
     "slug": "472-rua-alfredo-satte-alam-pelotas-SF60lCJhDni5",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Tablada"
   },
   {
@@ -13287,7 +15664,7 @@
     "listingType": "sale",
     "slug": "220-rua-santos-dumont-pelotas-2xk5O2l5vGEA",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Castilho"
   },
   {
@@ -13328,7 +15705,7 @@
     "listingType": "sale",
     "slug": "618-rua-emilio-jorge-dos-reis-pelotas-lp2IYaSRnVr1",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -13369,7 +15746,7 @@
     "listingType": "sale",
     "slug": "930-rua-um-ltm-liberdade-pelotas-cHjF9Wf1DrKt",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Arco Íris"
   },
   {
@@ -13411,7 +15788,7 @@
     "listingType": "sale",
     "slug": "2323-rua-tiradentes-pelotas-6bMFCgMzrXcO",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Porto"
   },
   {
@@ -13454,7 +15831,7 @@
     "listingType": "sale",
     "slug": "2171-avenida-pinheiro-machado-pelotas-4PtLkoqakqvy",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Paineiras"
   },
   {
@@ -13494,7 +15871,7 @@
     "listingType": "sale",
     "slug": "2725-avenida-fernando-osorio-pelotas-DOajenKAiDhi",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -13536,7 +15913,7 @@
     "listingType": "sale",
     "slug": "9113-avenida-doutor-antonio-augusto-de-assumpcao-junior-pelotas-cbKLcfmNfcjO",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -13577,7 +15954,7 @@
     "listingType": "sale",
     "slug": "154-rua-jose-leopoldo-schimitt-pelotas-WYeCuOOedtly",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -13618,7 +15995,7 @@
     "listingType": "sale",
     "slug": "240-rua-doutor-urbano-garcia-pelotas-7Gl7ZPgOZAYl",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -13659,7 +16036,7 @@
     "listingType": "sale",
     "slug": "730-avenida-engenheiro-ildefonso-simoes-lopes-pelotas-N8A27b7mZXF3",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Jardim das Tradições"
   },
   {
@@ -13700,7 +16077,7 @@
     "listingType": "sale",
     "slug": "2950-avenida-espirito-santo-pelotas-pQa9t1OUxlEw",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -13742,7 +16119,7 @@
     "listingType": "sale",
     "slug": "1900-rua-uruguay-pelotas-8w6nw1QgO5pv",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento General Osório"
   },
   {
@@ -13783,7 +16160,7 @@
     "listingType": "sale",
     "slug": "1081-avenida-jose-maria-da-fontoura-pelotas-x7yNIatRu2RP",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina Verde"
   },
   {
@@ -13824,7 +16201,7 @@
     "listingType": "sale",
     "slug": "35-rua-sao-jose-do-norte-pelotas-kNTY36ujtX0l",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -13865,7 +16242,7 @@
     "listingType": "sale",
     "slug": "1161-avenida-jose-maria-da-fontoura-pelotas-J5BtWsXMtm6d",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina Verde"
   },
   {
@@ -13906,7 +16283,7 @@
     "listingType": "sale",
     "slug": "2245-rua-tapejara-pelotas-QFaEGN8ImMYf",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -13948,7 +16325,7 @@
     "listingType": "sale",
     "slug": "1365-rua-barao-de-santa-de-tecla-pelotas-ceKOZ51FePDv",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -13989,7 +16366,7 @@
     "listingType": "sale",
     "slug": "d25-avenida-adolfo-fetter-4831-pelotas-ORxNanH5YDkY",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -14029,7 +16406,7 @@
     "listingType": "sale",
     "slug": "1144-rua-victorino-patzer-pelotas-inBZbI45oqC8",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Cohab Fragata"
   },
   {
@@ -14071,7 +16448,7 @@
     "listingType": "sale",
     "slug": "1351-rua-quinze-de-novembro-pelotas-ZbY6gdpUhuYA",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -14112,7 +16489,7 @@
     "listingType": "sale",
     "slug": "g31-avenida-adolfo-fetter-4831-pelotas-NbuN3D4wWUJ4",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -14153,7 +16530,7 @@
     "listingType": "sale",
     "slug": "477-rua-general-argolo-pelotas-LXXDxXOmYQYv",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -14194,7 +16571,7 @@
     "listingType": "sale",
     "slug": "h07-avenida-adolfo-fetter-4831-pelotas-lesEwQU7HAd4",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -14235,7 +16612,7 @@
     "listingType": "sale",
     "slug": "96-rua-doutor-alvaro-baptista-pelotas-lsCaBvcshVbZ",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Verona"
   },
   {
@@ -14276,7 +16653,7 @@
     "listingType": "sale",
     "slug": "140-rua-professor-paulo-marcant-goncalves-pelotas-wUX0RF4gbi7T",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -14317,7 +16694,7 @@
     "listingType": "sale",
     "slug": "3231-avenida-presidente-juscelino-kubitschek-de-oliveira-pelotas-YWf5Mns5i4Pa",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Parque Una"
   },
   {
@@ -14358,7 +16735,7 @@
     "listingType": "sale",
     "slug": "1646-rua-hulha-negra-pelotas-ErpLoWfhexNS",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -14399,7 +16776,7 @@
     "listingType": "sale",
     "slug": "1469-rua-marechal-deodoro-da-fonseca-pelotas-qwJdqsXsQ7br",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -14440,7 +16817,7 @@
     "listingType": "sale",
     "slug": "963-rua-quinze-de-novembro-pelotas-KarTxpb45uQP",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -14481,7 +16858,7 @@
     "listingType": "sale",
     "slug": "1049-rua-antonio-carlos-brasileiro-de-almeida-jobim-pelotas-OG6cA6QU5nn1",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina Verde"
   },
   {
@@ -14521,7 +16898,7 @@
     "listingType": "sale",
     "slug": "a19-avenida-adolfo-fetter-4331-pelotas-HD8S6noX91qY",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -14562,7 +16939,7 @@
     "listingType": "sale",
     "slug": "f37-travessa-leonel-de-moura-brizola-650-pelotas-QKJg8RK6Ss2n",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "São Gonçalo"
   },
   {
@@ -14603,7 +16980,7 @@
     "listingType": "sale",
     "slug": "708-rua-paulo-de-souza-lobo-pelotas-pX0NtLZnHuOu",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Pontal"
   },
   {
@@ -14644,7 +17021,7 @@
     "listingType": "sale",
     "slug": "h12-travessa-leonel-de-moura-brizola-650-pelotas-hjBIQR3FDBi3",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "São Gonçalo"
   },
   {
@@ -14685,7 +17062,7 @@
     "listingType": "sale",
     "slug": "79-rua-major-justino-marques-de-oliveira-filho-pelotas-aa26fEVnjqBw",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Umuharama"
   },
   {
@@ -14726,7 +17103,7 @@
     "listingType": "sale",
     "slug": "655-rua-cidade-de-beja-pelotas-DAUI9sesl9pQ",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -14766,7 +17143,7 @@
     "listingType": "sale",
     "slug": "13-rua-barao-de-azevedo-machado-pelotas-TASaYiwcR1WS",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Sede"
   },
   {
@@ -14807,7 +17184,7 @@
     "listingType": "sale",
     "slug": "816-rua-armando-voigt-pelotas-rnPTqt0WF14t",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santa Terezinha"
   },
   {
@@ -14847,7 +17224,7 @@
     "listingType": "sale",
     "slug": "855-avenida-duque-de-caxias-pelotas-a1ZHcFh3lSW8",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Verona"
   },
   {
@@ -14888,7 +17265,7 @@
     "listingType": "sale",
     "slug": "2330-rua-tapejara-pelotas-f7DVXfAX3X9f",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -14929,7 +17306,7 @@
     "listingType": "sale",
     "slug": "172-rua-januario-coelho-da-costa-pelotas-JI6rCLyyzJ82",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Guabiroba"
   },
   {
@@ -14970,7 +17347,7 @@
     "listingType": "sale",
     "slug": "465-avenida-otelmo-demari-alves-pelotas-tGDRp28jcCSG",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -15011,7 +17388,7 @@
     "listingType": "sale",
     "slug": "1067-rua-professora-vanda-da-silva-chagas-pelotas-TmSWpLyMkuyd",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -15052,7 +17429,7 @@
     "listingType": "sale",
     "slug": "1548-rua-cacapava-do-sul-pelotas-fsTrowVQiOE6",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Pontal"
   },
   {
@@ -15093,7 +17470,7 @@
     "listingType": "sale",
     "slug": "269-rua-cacequi-pelotas-I1hEZY5jEFzU",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -15135,7 +17512,7 @@
     "listingType": "sale",
     "slug": "2705-rua-marcilio-dias-pelotas-8I4Lkyc2Nxw3",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -15175,7 +17552,7 @@
     "listingType": "sale",
     "slug": "161-rua-tomaz-soares-vieira-pelotas-qb34Mh3b6nTG",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Las Acácias"
   },
   {
@@ -15216,7 +17593,7 @@
     "listingType": "sale",
     "slug": "2536-rua-carlos-gotuzzo-giacoboni-pelotas-icvAz7za2KLr",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Vila dos Tocos"
   },
   {
@@ -15257,7 +17634,7 @@
     "listingType": "sale",
     "slug": "234-rua-doutor-jose-bonifacio-de-carvalho-costa-pelotas-Fv5ucA48Raf9",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -15298,7 +17675,7 @@
     "listingType": "sale",
     "slug": "110-rua-sao-leopoldo-pelotas-a3l5rmhJlez3",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -15338,7 +17715,7 @@
     "listingType": "sale",
     "slug": "219-rua-vereador-celso-garcia-d-avilla-sellas-pelotas-jWofGSiQs7KT",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Bom Jesus"
   },
   {
@@ -15379,7 +17756,7 @@
     "listingType": "sale",
     "slug": "430-rua-herval-do-sul-pelotas-78Nz7SQBED6B",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -15418,7 +17795,7 @@
     "listingType": "sale",
     "slug": "4458-rua-gon-alves-chaves-pelotas-shvr2hdI1oDR",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Sede"
   },
   {
@@ -15459,7 +17836,7 @@
     "listingType": "sale",
     "slug": "70-rua-doutor-oswaldo-branco-de-araujo-pelotas-iWfH4QbHjctR",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Umuharama"
   },
   {
@@ -15500,7 +17877,7 @@
     "listingType": "sale",
     "slug": "1359-rua-simon-bolivar-pelotas-PVcEAqhDOVl0",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Las Acácias"
   },
   {
@@ -15541,7 +17918,7 @@
     "listingType": "sale",
     "slug": "906-rua-um-ltm-res-amarilis-pelotas-IKJQNTBZLKfM",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -15582,7 +17959,7 @@
     "listingType": "sale",
     "slug": "488-rua-conselheiro-silveira-martins-pelotas-5KEBQAcdects",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -15623,7 +18000,7 @@
     "listingType": "sale",
     "slug": "237-rua-dona-mariana-eufrasia-da-silveira-pelotas-jrzIn6TK1hpQ",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Porto"
   },
   {
@@ -15664,7 +18041,7 @@
     "listingType": "sale",
     "slug": "g33-avenida-adolfo-fetter-4831-pelotas-qd0JrtqF6BBe",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -15704,7 +18081,7 @@
     "listingType": "sale",
     "slug": "391-avenida-dois-ltm-parque-una-pelotas-pelotas-H5UOiVb7zgHl",
     "type": "commercial",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Parque Una"
   },
   {
@@ -15745,7 +18122,7 @@
     "listingType": "sale",
     "slug": "639-avenida-cristovao-jose-dos-santos-pelotas-OOZF3nTmMpQD",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Tablada"
   },
   {
@@ -15786,7 +18163,7 @@
     "listingType": "sale",
     "slug": "625-rua-cinco-ltm-res-amarilis-pelotas-H0sF7pEUgdmC",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -15826,7 +18203,7 @@
     "listingType": "sale",
     "slug": "293-avenida-vinte-e-cinco-de-julho-pelotas-MFehRdDIxJDH",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santa Terezinha"
   },
   {
@@ -15867,7 +18244,7 @@
     "listingType": "sale",
     "slug": "c09-avenida-adolfo-fetter-4331-pelotas-dkrbCRtPjlkM",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -15907,7 +18284,7 @@
     "listingType": "sale",
     "slug": "426-rua-ernesto-che-guevara-pelotas-ZNW4i9oerzmX",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Arco Íris"
   },
   {
@@ -15947,7 +18324,7 @@
     "listingType": "sale",
     "slug": "g08-avenida-adolfo-fetter-4831-pelotas-Ldj32IRs6RYs",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -15988,7 +18365,7 @@
     "listingType": "sale",
     "slug": "e09-avenida-adolfo-fetter-4331-pelotas-7cOx9pG0TPw1",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -16029,7 +18406,7 @@
     "listingType": "sale",
     "slug": "1814-rua-elgar-carlos-hadler-pelotas-UETaLrhhMszx",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Umuharama"
   },
   {
@@ -16069,7 +18446,7 @@
     "listingType": "sale",
     "slug": "f05-avenida-adolfo-fetter-3551-pelotas-Hg8U43W0f5yF",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Z3"
   },
   {
@@ -16110,7 +18487,7 @@
     "listingType": "sale",
     "slug": "873-rua-tres-ltm-res-amarilis-pelotas-jgEKeLt2Ilnf",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -16151,7 +18528,7 @@
     "listingType": "sale",
     "slug": "e17-avenida-adolfo-fetter-4831-pelotas-asd347TAibld",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -16191,7 +18568,7 @@
     "listingType": "sale",
     "slug": "3878-rua-gon-alves-chaves-pelotas-6FSwFMo9h4UQ",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Sede"
   },
   {
@@ -16233,7 +18610,7 @@
     "listingType": "sale",
     "slug": "931-avenida-senador-joaquim-augusto-de-assumpcao-pelotas-dP8cH162xfON",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -16274,7 +18651,7 @@
     "listingType": "sale",
     "slug": "120-rua-almirante-tamandare-pelotas-2nCpBF7xv93i",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Porto"
   },
   {
@@ -16315,7 +18692,7 @@
     "listingType": "sale",
     "slug": "994-rua-adalberto-morana-martins-pelotas-V41JniDZB1XC",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -16357,7 +18734,7 @@
     "listingType": "sale",
     "slug": "1077-rua-quinze-de-novembro-pelotas-no1K0cLpzEtu",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -16398,7 +18775,7 @@
     "listingType": "sale",
     "slug": "296-avenida-jose-maria-da-fontoura-pelotas-oqA8m7u4eQr6",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -16439,7 +18816,7 @@
     "listingType": "sale",
     "slug": "548-rua-oliveira-de-azemeis-pelotas-kxZDloNmgFv2",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -16480,7 +18857,7 @@
     "listingType": "sale",
     "slug": "192-rua-general-argolo-pelotas-6KvIW09uhwUH",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fátima"
   },
   {
@@ -16521,7 +18898,7 @@
     "listingType": "sale",
     "slug": "666-rua-bage-pelotas-20pR8iXmhQQY",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -16562,7 +18939,7 @@
     "listingType": "sale",
     "slug": "63-pra-a-armando-da-silva-marques-pelotas-h8GeeZOdSxw2",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -16602,7 +18979,7 @@
     "listingType": "sale",
     "slug": "204-rua-luiz-de-camoes-pelotas-N4yYheRABkgG",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -16643,7 +19020,7 @@
     "listingType": "sale",
     "slug": "1155-avenida-herbert-hadler-pelotas-nyjbnWyJOQKZ",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Paineiras"
   },
   {
@@ -16682,7 +19059,7 @@
     "listingType": "sale",
     "slug": "509-rua-albino-brod-pelotas-zAp1CLz6UMoW",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -16724,7 +19101,7 @@
     "listingType": "sale",
     "slug": "350-rua-povoas-junior-pelotas-QQZRRXiVUu2V",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Residencial Nova Tablada"
   },
   {
@@ -16766,7 +19143,7 @@
     "listingType": "sale",
     "slug": "3010-avenida-ferreira-viana-pelotas-JNWqXhDUQgo9",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -16806,7 +19183,7 @@
     "listingType": "sale",
     "slug": "2263-rua-conego-siqueira-canabarro-pelotas-Ml6JUmqLmdBz",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fragata"
   },
   {
@@ -16845,7 +19222,7 @@
     "listingType": "sale",
     "slug": "3784-avenida-ferreira-viana-pelotas-nyQPrKVsLj9I",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "São Gonçalo"
   },
   {
@@ -16887,7 +19264,7 @@
     "listingType": "sale",
     "slug": "9047-avenida-doutor-antonio-augusto-de-assumpcao-junior-pelotas-fFJ2wxomAp07",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -16928,7 +19305,7 @@
     "listingType": "sale",
     "slug": "3582-rua-triunfo-pelotas-SjmpLwkIjrwi",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -16969,7 +19346,7 @@
     "listingType": "sale",
     "slug": "9441-avenida-doutor-antonio-augusto-de-assumpcao-junior-pelotas-VEKbW0vbHnJ9",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -17011,7 +19388,7 @@
     "listingType": "sale",
     "slug": "3010-rua-marcilio-dias-pelotas-DtVAZ6Uv9iGv",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Castilho"
   },
   {
@@ -17052,7 +19429,7 @@
     "listingType": "sale",
     "slug": "386-rua-barao-de-santa-de-tecla-pelotas-os5l3g0O2uVa",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -17094,7 +19471,7 @@
     "listingType": "sale",
     "slug": "7-pra-a-coronel-pedro-osorio-pelotas-sBfrBRfA4zuZ",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -17135,7 +19512,7 @@
     "listingType": "sale",
     "slug": "590-avenida-arthur-augusto-assumpcao-pelotas-jtEzozsOHzJt",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -17176,7 +19553,7 @@
     "listingType": "sale",
     "slug": "1423-rua-cidade-de-santarem-pelotas-2OTfqGIGY8o8",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Recanto de Portugal"
   },
   {
@@ -17217,7 +19594,7 @@
     "listingType": "sale",
     "slug": "a08-travessa-leonel-de-moura-brizola-650-pelotas-eQe0vxoqzqRy",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "São Gonçalo"
   },
   {
@@ -17258,7 +19635,7 @@
     "listingType": "sale",
     "slug": "238-rua-dom-pedro-ii-pelotas-gEGTR3RMwEak",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Porto"
   },
   {
@@ -17297,7 +19674,7 @@
     "listingType": "sale",
     "slug": "750-rua-leopoldo-gotuzzo-pelotas-nvKDX1HRqvqF",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -17338,7 +19715,7 @@
     "listingType": "sale",
     "slug": "596-rua-sao-leopoldo-pelotas-RcLZ1Vc2hcvo",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -17379,7 +19756,7 @@
     "listingType": "sale",
     "slug": "2719-avenida-ferreira-viana-pelotas-zRvmCdc1A1uK",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -17419,7 +19796,7 @@
     "listingType": "sale",
     "slug": "275-rua-doutor-vitor-russomano-pelotas-Dbr6ON05CoxE",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -17460,7 +19837,7 @@
     "listingType": "sale",
     "slug": "472-rua-orlando-brizolara-azevedo-pelotas-YfEl4UjZrBwK",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -17501,7 +19878,7 @@
     "listingType": "sale",
     "slug": "65-rua-sao-jose-do-norte-pelotas-r69zGdws0qMQ",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -17541,7 +19918,7 @@
     "listingType": "sale",
     "slug": "208-avenida-francisco-caruccio-pelotas-4xQAWae8z8gv",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -17582,7 +19959,7 @@
     "listingType": "sale",
     "slug": "3446-rua-andrade-neves-pelotas-D31BzH2t8syg",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -17622,7 +19999,7 @@
     "listingType": "sale",
     "slug": "190-rua-dois-ltm-parque-una-pelotas-pelotas-XlSN13XyDTQO",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Parque Una"
   },
   {
@@ -17664,7 +20041,7 @@
     "listingType": "sale",
     "slug": "8999-avenida-doutor-antonio-augusto-de-assumpcao-junior-pelotas-4tyGjqQakthd",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Santo Antônio"
   },
   {
@@ -17706,7 +20083,7 @@
     "listingType": "sale",
     "slug": "g37-avenida-adolfo-fetter-3551-pelotas-zJOHgjTpU146",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Altos do Laranjal"
   },
   {
@@ -17747,7 +20124,7 @@
     "listingType": "sale",
     "slug": "215-avenida-otelmo-demari-alves-pelotas-hnMByJ5elqHz",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Amarilis"
   },
   {
@@ -17787,7 +20164,7 @@
     "listingType": "sale",
     "slug": "a08-avenida-adolfo-fetter-4831-pelotas-XP8Ervd22VsX",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -17828,7 +20205,7 @@
     "listingType": "sale",
     "slug": "46-rua-leopoldo-gotuzzo-pelotas-cT7KFAubbqn9",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -17869,7 +20246,7 @@
     "listingType": "sale",
     "slug": "f12-avenida-adolfo-fetter-4331-pelotas-P1HgWl0qzJOi",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -17910,7 +20287,7 @@
     "listingType": "sale",
     "slug": "d47-rua-doutor-nunes-vieira-455-pelotas-aHl72Ib76bdv",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -17951,7 +20328,7 @@
     "listingType": "sale",
     "slug": "383-rua-alcides-torres-diniz-pelotas-VP7vWfOjxINh",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -17992,7 +20369,7 @@
     "listingType": "sale",
     "slug": "208-rua-marechal-floriano-peixoto-pelotas-WqqPMCu7uQeA",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -18032,7 +20409,7 @@
     "listingType": "sale",
     "slug": "938-avenida-duque-de-caxias-pelotas-cpDlT4olRi9f",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Verona"
   },
   {
@@ -18072,7 +20449,7 @@
     "listingType": "sale",
     "slug": "2000-avenida-presidente-juscelino-kubitschek-de-oliveira-pelotas-13ms5uYV9VNg",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fátima"
   },
   {
@@ -18113,7 +20490,7 @@
     "listingType": "sale",
     "slug": "193-rua-antonio-da-costa-fonseca-pelotas-4APJdw4jbHXm",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Umuharama"
   },
   {
@@ -18155,7 +20532,7 @@
     "listingType": "sale",
     "slug": "1391-rua-tres-de-maio-pelotas-Yy7YkB9PT4Z1",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Simões Lopes"
   },
   {
@@ -18196,7 +20573,7 @@
     "listingType": "sale",
     "slug": "181-rua-visconde-de-ouro-preto-pelotas-kZLeUBZH6Jda",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -18236,7 +20613,7 @@
     "listingType": "sale",
     "slug": "470-rua-laudelino-goncalves-ribeiro-pelotas-hDcZySFqQYgC",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -18277,7 +20654,7 @@
     "listingType": "sale",
     "slug": "k04-avenida-adolfo-fetter-4831-pelotas-sEFnnI3pVQa0",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -18317,7 +20694,7 @@
     "listingType": "sale",
     "slug": "149-rua-senador-cruz-jobim-pelotas-sjlThy4gS5FK",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -18359,7 +20736,7 @@
     "listingType": "sale",
     "slug": "300-rua-marechal-deodoro-da-fonseca-pelotas-JTVVF1kigKhp",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento General Osório"
   },
   {
@@ -18400,7 +20777,7 @@
     "listingType": "sale",
     "slug": "l15-avenida-adolfo-fetter-4831-pelotas-xOhfU0gQBIgB",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Alphaville Pelotas"
   },
   {
@@ -18440,7 +20817,7 @@
     "listingType": "sale",
     "slug": "446-rua-dois-ltm-parque-una-pelotas-pelotas-yPg0NYY1zSX9",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Parque Una"
   },
   {
@@ -18481,7 +20858,7 @@
     "listingType": "sale",
     "slug": "a20-avenida-adolfo-fetter-3551-pelotas-VUc4QiuPxG59",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Laranjal / Z3"
   },
   {
@@ -18522,7 +20899,7 @@
     "listingType": "sale",
     "slug": "2377-avenida-espirito-santo-pelotas-3O7gw08o0tNJ",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Valverde"
   },
   {
@@ -18561,7 +20938,7 @@
     "listingType": "sale",
     "slug": "137-rua-l-cio-mattea-pelotas-BUwflJ8dPsxV",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Três Vendas"
   },
   {
@@ -18602,7 +20979,7 @@
     "listingType": "sale",
     "slug": "3943-avenida-bento-goncalves-pelotas-u2D1DYYoxljf",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Centro"
   },
   {
@@ -18643,7 +21020,7 @@
     "listingType": "sale",
     "slug": "f23-avenida-adolfo-fetter-3551-pelotas-faVLY0KZlTQJ",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Laranjal / Z3"
   },
   {
@@ -18683,7 +21060,7 @@
     "listingType": "sale",
     "slug": "130-rua-dez-ltm-liberdade-pelotas-qYbnFNbaaY0G",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Areal"
   },
   {
@@ -18724,7 +21101,7 @@
     "listingType": "sale",
     "slug": "195-rua-quinze-ltm-liberdade-pelotas-LQOjT5NQr4Gc",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Arco Íris"
   },
   {
@@ -18766,7 +21143,7 @@
     "listingType": "sale",
     "slug": "66-rua-lindolfo-color-pelotas-NcC8zFmvlgtM",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Colina do Sol"
   },
   {
@@ -18807,7 +21184,7 @@
     "listingType": "sale",
     "slug": "1000-avenida-prefeito-ary-alcantara-pelotas-jBwnbjO3tbdQ",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Loteamento Jardim das Tradições"
   },
   {
@@ -18847,7 +21224,7 @@
     "listingType": "sale",
     "slug": "185-rua-reinaldo-augusto-alberto-leitzke-pelotas-3bzuXA2w59Nf",
     "type": "land",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Lindóia"
   },
   {
@@ -18888,7 +21265,7 @@
     "listingType": "sale",
     "slug": "500-rua-baldomero-trapaga-pelotas-2AESJPgtkW9D",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fátima"
   },
   {
@@ -18931,7 +21308,7 @@
     "listingType": "sale",
     "slug": "137-rua-frederico-trebi-pelotas-1uw5RdDY7oMJ",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fátima"
   },
   {
@@ -18972,7 +21349,7 @@
     "listingType": "sale",
     "slug": "1712-rua-elgar-carlos-hadler-pelotas-ibcXS7UrkEhF",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Umuharama"
   },
   {
@@ -19011,7 +21388,7 @@
     "listingType": "sale",
     "slug": "133-rua-vereador-wolney-vieira-pelotas-stIPKBp9BxNx",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Sede"
   },
   {
@@ -19051,7 +21428,7 @@
     "listingType": "sale",
     "slug": "1840-rua-general-neto-pelotas-IEKzxSWjFFXQ",
     "type": "apartment",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Fragata"
   },
   {
@@ -19092,7 +21469,7 @@
     "listingType": "sale",
     "slug": "569-rua-carlos-gomes-pelotas-2gEbt9QfWNBE",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Residencial Nova Tablada"
   },
   {
@@ -19134,7 +21511,7 @@
     "listingType": "sale",
     "slug": "261-rua-allan-kardec-pelotas-xNNAYkQDPLr1",
     "type": "house",
-    "tipo": "rent",
+    "tipo": "sale",
     "neighbourhood": "Padre Reus"
   }
 ]
